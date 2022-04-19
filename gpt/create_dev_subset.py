@@ -5,7 +5,7 @@ import random
 import configurations as cfg
 from create_embeddings import create_embedding
 import torch
-from cqa.model import CQAer
+from cqa_1.model import CQAer
 from transformers import BertTokenizer, BertModel
 import tqdm
 

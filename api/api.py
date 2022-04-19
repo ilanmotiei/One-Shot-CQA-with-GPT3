@@ -4,10 +4,11 @@ from flask import Flask
 from flask import request, render_template
 import torch
 import sys
-sys.path.append('..')
+import os
+cqa_path = os.path.realpath('.')
+sys.path.insert(1, cqa_path)
 from cqa.model import CQAer
 import argparse
-
 from retrieval_json import Indexer
 
 app = Flask(__name__)
@@ -22,6 +23,7 @@ def question_answer(model, question, text, state):
     state, answer, confidence_score = model.answer1(context=text, question=question, state=state)
 
     return answer, state, confidence_score
+
 
 @app.route("/answer", methods=['POST'])
 def answer():
@@ -56,24 +58,26 @@ def answer():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser('Parser for the retreival api')
-    parser.add_argument('--checkpoint-path', dest='checkpoint_path', type=str)
-    parser.add_argument('--data-path', dest='dataset_file', type=str)
+
+    parser.add_argument('--args', required=True)
+    parser.add_argument('--data', required=True)
+    parser.add_argument('--model', required=True)
     args = parser.parse_args()
 
-    dataset_file = args.dataset_file
+    vars_dict = {'context': None, 'state': None}
+    model_args = torch.load(args.args, map_location='cpu')
+    model_args.device = 'cpu'
+    model = CQAer(model_args).to(model_args.device)
+    model.eval()
+    model.load_state_dict(torch.load(args.model, map_location='cpu'))
+    # model.to('cpu')
+
+    dataset_file = args.data
 
     inx = Indexer(dataset_file)
     inx.loadcache(dataset_file + ".cache")
     # inx.precompute()
     # inx.storecache(dataset_file + ".cache")
-
-    vars_dict = {'context': None, 'state': None}
-    args = torch.load('args_saved.pth', map_location='cpu')
-    args.device = 'cpu'
-    model = CQAer(args).to(args.device)
-    model.eval()
-    model.load_state_dict(torch.load(args.checkpoint_path, map_location='cpu'))
-    # model.to('cpu')
 
     webbrowser.open_new('http://127.0.0.1:2000/')
 

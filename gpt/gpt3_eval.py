@@ -1,6 +1,6 @@
 import sys
 sys.path.append('..')
-from cqa.model import CQAer
+from cqa_1.model import CQAer
 
 import torch
 from transformers import BertTokenizer, BertModel
@@ -8,7 +8,7 @@ import json
 import random
 from create_embeddings import find_closest_challenge
 from gpt3_api import GPT_Completion
-from cqa.official_evaluation_script import calculate_metrics
+from cqa_1.official_evaluation_script import calculate_metrics
 import tqdm
 import configurations as cfg
 from create_embeddings import create_train_index

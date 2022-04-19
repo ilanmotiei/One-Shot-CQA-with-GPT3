@@ -3,7 +3,7 @@ import torch
 import configurations as cfg
 import sys
 sys.path.append('..')
-from cqa.model import CQAer
+from cqa_1.model import CQAer
 
 from transformers import BertModel, BertTokenizer
 

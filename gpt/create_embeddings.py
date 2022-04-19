@@ -6,7 +6,7 @@ with respect for the current challenge we're looking at in the dev set, + the cu
 
 import sys
 sys.path.append('..')
-from cqa.model import CQAer
+from cqa_1.model import CQAer
 
 from transformers import BertTokenizer, BertModel
 import torch

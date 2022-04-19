@@ -22,6 +22,8 @@ class Indexer:
         self.dataset_file = dataset_file
         self.tfidf_by_term = defaultdict(lambda: [])
         self.articles = defaultdict(lambda: '')
+        self.precompute()
+        self.storecache(dataset_file + '.cache')
 
     # tokenizer = None
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -138,8 +140,6 @@ class Indexer:
             for row in reader:
                 self.tfidf_by_term[row[0]] = list(map(lambda r: (r.split(":")[0], float(r.split(":")[1])), row[1:]))
 
-
-
         doc_mat = np.zeros((len(self.articles), len(self.tfidf_by_term)))
         for idx,(t,tfidf) in enumerate(self.tfidf_by_term.items()):
             for doc,value in tfidf:
@@ -177,8 +177,6 @@ class Indexer:
 
         return [(list(self.articles.keys())[k], similarity[k]) for k in topidx]
 
-
-
     def getarticle(self, id):
         return self.articles[id]
 
@@ -191,9 +189,6 @@ if __name__ == '__main__':
     # inx.precompute()
     # inx.storecache(dataset_file + ".cache")
 
-    print()
-
-
     def single_question(question):
         tic = time.perf_counter()
         print("---")
@@ -203,7 +198,6 @@ if __name__ == '__main__':
         toc = time.perf_counter()
         print("Answered in {:0.2f}s".format(toc - tic))
         print()
-
 
     single_question("Which is the most powerful nuclear reactor in the world?")
     single_question("Where is Zimbabwe?")
