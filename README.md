@@ -20,7 +20,7 @@ For using the retrieval-reader web api:
 First download the pretrained model and the data from here: https://drive.google.com/drive/folders/16eAi3j2XOrdMVs3oCnzwSx1GBFLgNTDn?usp=sharing.
 Donwload all the files and place them in the root directory of the repository.
 
-Then, perform the following command:
+Then, execute the following command:
 ```
 python3 api/api.py --model model.pth --args args.pth --data coqa-dev-v1.0.json
 ```
