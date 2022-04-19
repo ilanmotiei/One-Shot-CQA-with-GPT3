@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 
 For using the retrieval-reader web api:
 
-First download the pretrained model from here: https://drive.google.com/drive/folders/16eAi3j2XOrdMVs3oCnzwSx1GBFLgNTDn?usp=sharing.
+First download the pretrained model and the data from here: https://drive.google.com/drive/folders/16eAi3j2XOrdMVs3oCnzwSx1GBFLgNTDn?usp=sharing.
 Donwload all the files and place them in the root directory of the repository.
 
 Then, perform the following command:
