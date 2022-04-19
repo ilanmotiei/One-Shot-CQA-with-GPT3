@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <style>
+        textarea {
+            resize: none !important;
+        }
+    </style>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Question Answering</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+</head>
+
+<body>
+
+<section class="section is-small">
+    <h1 class="title" style="text-align: center;">Question Answering with Bert</h1>
+</section>
+
+<section class="section is-small">
+
+    <div style="margin-bottom: 3em">
+        <span>Start a new conversation</span>
+        <button class="button" style="vertical-align: baseline" onclick="resetCustom()">with custom context</button>
+        <button class="button" onclick="resetRetrieval()">find context automatically</button>
+    </div>
+
+    <div id="container"></div>
+
+</section>
+</body>
+
+<script>
+
+    let container_elem = document.getElementById("container")
+    let story_elem = document.getElementById("story")
+    let question_elem = document.getElementById("question")
+    let answer_elem = document.getElementById("answer")
+    let retrieval_elem = document.getElementById("use-retrieval")
+    let story_id_elem = document.getElementById("story-id")
+
+    let default_story = `
+    CHAPTER VI:
+
+A Game Of Hide And Seek
+
+There was a game of hide and seek that Danny Meadow Mouse once played with Buster Bear. It was a very dreadful game for Danny. But hard as it was for Danny, it didn't begin to be as hard as the game Lightfoot the Deer was playing with the hunter in the Green Forest.
+
+In the case of Buster Bear and Danny, the latter had simply to keep out of reach of Buster. As long as Buster didn't get his great paws on Danny, the latter was safe. Then, too, Danny is a very small person. He is so small that he can hide under two or three leaves. Wherever he is, he is pretty sure to find a hiding-place of some sort. His small size gives him advantages in a game of hide and seek. It certainly does. But Lightfoot the Deer is big. He is one of the largest of the people who live in the Green Forest. Being so big, it is not easy to hide.
+
+Moreover, a hunter with a terrible gun does not have to get close in order to kill. Lightfoot knew all this as he waited for the coming of the hunter of whom Sammy Jay had warned him. He had learned many lessons in the hunting season of the year before and he remembered every one of them. He knew that to forget even one of them might cost him his life. So, standing motionless behind a tangle of fallen trees, Lightfoot listened and watched.
+`
+    let default_question = `What did Danny have to do to win?`
+
+    let usingRetrieval = false
+    let addedStory = false
+    let resetHistory = true
+
+    function ask(button) {
+        let all_questions = document.getElementById("all-questions")
+        if (button) {
+            let response_el = button.previousElementSibling.previousElementSibling.firstElementChild
+            let question_el = button.previousElementSibling.previousElementSibling.previousElementSibling.firstElementChild
+            let question = question_el.value.trim()
+            if (question === "") return
+            question_el.innerHTML = question
+
+            question_el.disabled = true
+            button.style.display = "none"
+
+            let urlencoded = new URLSearchParams();
+            urlencoded.append("question", question_el.value);
+            urlencoded.append("context", document.getElementById("story") ? document.getElementById("story").value.trim() : "");
+            urlencoded.append("retrieval", usingRetrieval);
+            urlencoded.append("reset", resetHistory);
+
+            let requestOptions = {
+                method: 'POST',
+                body: urlencoded,
+                redirect: 'follow'
+            };
+
+            fetch("http://127.0.0.1:2000/answer", requestOptions)
+                .then(response => response.json())
+                .then(result => {
+                    response_el.innerHTML = result.answer
+                    response_el.parentElement.style.display = "block"
+
+                    if (usingRetrieval && !addedStory) {
+                        addedStory = true
+
+                        all_questions.innerHTML += `
+                    <label>Using context:
+                        <textarea style="margin-bottom: 3em;" id="story" class="textarea is-link" disabled></textarea>
+                    </label
+                `
+                        document.getElementById("story").innerHTML = result.context + (result.question_id ? "\n\nQuestion ID: " + result.question_id : "")
+                    }
+
+                    all_questions.innerHTML += `
+                        <div class="one-exchange">
+                            <label for="question">Question:
+                                <textarea class="textarea" placeholder="Enter a question about the story" rows="1"></textarea>
+                            </label>
+                            <label style="display: none">Answer:
+                                <textarea class="textarea" rows="1" disabled></textarea>
+                            </label>
+                            <br>
+                            <button class="button is-success is-rounded" onclick="ask(this)">Find the Answer</button>
+                        </div>
+                        `
+                })
+                .catch(error => {console.log('error', error)});
+            resetHistory = false
+        } else {
+            resetHistory = true
+
+            all_questions.innerHTML += `
+            <div class="one-exchange">
+                <label for="question">Question:
+                    <textarea class="textarea" placeholder="Enter a question about the story" rows="1"></textarea>
+                </label>
+                <label style="display: none">Answer:
+                    <textarea class="textarea" rows="1" disabled></textarea>
+                </label>
+                <br>
+                <button class="button is-success is-rounded" onclick="ask(this)">Find the Answer</button>
+            </div>
+            `
+        }
+    }
+
+    function resetCustom() {
+        usingRetrieval = false
+        container_elem.innerHTML = `
+            <textarea id="story" class="textarea is-link" placeholder="Enter a story"></textarea>
+            <div id="all-questions"></div>
+        `
+        ask()
+    }
+    function resetRetrieval() {
+        usingRetrieval = true
+        addedStory = false
+        container_elem.innerHTML = `
+            <div id="all-questions"></div>
+        `
+        ask()
+    }
+
+    function sendRequest() {
+
+        let myHeaders = new Headers();
+        myHeaders.append("question0", "");
+        myHeaders.append("Content-Type", "application/x-www-form-urlencoded");
+
+        let urlencoded = new URLSearchParams();
+        urlencoded.append("question", question_elem.value);
+        urlencoded.append("context", story_elem.value);
+        urlencoded.append("retrieval", retrieval_elem.checked);
+
+        let requestOptions = {
+            method: 'POST',
+            headers: myHeaders,
+            body: urlencoded,
+            redirect: 'follow'
+        };
+
+        fetch("http://127.0.0.1:2000/answer", requestOptions)
+            .then(response => response.json())
+            .then(result => show(result))
+            .catch(error => console.log('error', error));
+    }
+
+    function show(result) {
+        story_elem.value = result.context
+        story_id_elem.innerHTML = result.question_id ? "Question ID: " + result.question_id : ""
+        answer_elem.innerHTML = result.answer;
+        answer_elem.style.display = "block";
+        story_elem.style.display = "block";
+
+    }
+</script>
+</html>
