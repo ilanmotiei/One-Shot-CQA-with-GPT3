@@ -1,0 +1,9 @@
+torch
+flask
+regex
+transformers
+numpy
+tqdm
+sacremoses
+matplotlib
+openai

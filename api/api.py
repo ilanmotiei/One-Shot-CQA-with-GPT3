@@ -3,7 +3,9 @@ import webbrowser
 from flask import Flask
 from flask import request, render_template
 import torch
-from model import CQAer
+import sys
+sys.path.append('..')
+from cqa.model import CQAer
 
 from retrieval_json import Indexer
 
@@ -58,8 +60,6 @@ if __name__ == "__main__":
     inx.loadcache(dataset_file + ".cache")
     # inx.precompute()
     # inx.storecache(dataset_file + ".cache")
-
-
 
     vars_dict = {'context': None, 'state': None}
     args = torch.load('args_saved.pth', map_location='cpu')
