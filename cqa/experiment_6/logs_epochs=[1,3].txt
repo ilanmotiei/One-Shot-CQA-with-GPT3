@@ -1,0 +1,3429 @@
+ --------------- Epoch 1/10 Training Start --------------- 
+ ------------ Epoch 1/10 Batch 50/11616 Training Results ------------ 
+Total Loss: 13.243248748779298
+Span Start Loss: 5.929871158599854
+Span End Loss: 5.932994270324707
+Type Loss: 1.3803830528259278
+ ------------ Epoch 1/10 Batch 100/11616 Training Results ------------ 
+Total Loss: 13.254856300354003
+Span Start Loss: 5.923734402656555
+Span End Loss: 5.9538679027557375
+Type Loss: 1.3772537398338318
+ ------------ Epoch 1/10 Batch 150/11616 Training Results ------------ 
+Total Loss: 13.257836198806762
+Span Start Loss: 5.925732434590658
+Span End Loss: 5.958489535649617
+Type Loss: 1.3736139798164368
+ ------------ Epoch 1/10 Batch 200/11616 Training Results ------------ 
+Total Loss: 13.25946461558342
+Span Start Loss: 5.932263298034668
+Span End Loss: 5.962254440784454
+Type Loss: 1.364946623444557
+ ------------ Epoch 1/10 Batch 250/11616 Training Results ------------ 
+Total Loss: 13.245664658546447
+Span Start Loss: 5.932292194366455
+Span End Loss: 5.959578178405762
+Type Loss: 1.3537940211296082
+ ------------ Epoch 1/10 Batch 300/11616 Training Results ------------ 
+Total Loss: 13.216219397385915
+Span Start Loss: 5.921392625172933
+Span End Loss: 5.954268767038982
+Type Loss: 1.340557757616043
+ ------------ Epoch 1/10 Batch 350/11616 Training Results ------------ 
+Total Loss: 13.1957537651062
+Span Start Loss: 5.918621525083269
+Span End Loss: 5.950835890088762
+Type Loss: 1.3262960951668876
+ ------------ Epoch 1/10 Batch 400/11616 Training Results ------------ 
+Total Loss: 13.183512935042382
+Span Start Loss: 5.9216647922992705
+Span End Loss: 5.952513800859451
+Type Loss: 1.309334082901478
+ ------------ Epoch 1/10 Batch 450/11616 Training Results ------------ 
+Total Loss: 13.151420206493802
+Span Start Loss: 5.916680527793036
+Span End Loss: 5.944547470940484
+Type Loss: 1.2901919492085774
+ ------------ Epoch 1/10 Batch 500/11616 Training Results ------------ 
+Total Loss: 13.124151427745819
+Span Start Loss: 5.912202078819275
+Span End Loss: 5.940429083824157
+Type Loss: 1.2715200132131577
+ ------------ Epoch 1/10 Batch 550/11616 Training Results ------------ 
+Total Loss: 13.088008824261752
+Span Start Loss: 5.904538659182462
+Span End Loss: 5.9333718690005215
+Type Loss: 1.2500980459560047
+ ------------ Epoch 1/10 Batch 600/11616 Training Results ------------ 
+Total Loss: 13.05156703790029
+Span Start Loss: 5.896833728949229
+Span End Loss: 5.925693388779958
+Type Loss: 1.2290396751960118
+ ------------ Epoch 1/10 Batch 650/11616 Training Results ------------ 
+Total Loss: 13.021484675774207
+Span Start Loss: 5.8925607079726
+Span End Loss: 5.92132637317364
+Type Loss: 1.2075973490568308
+ ------------ Epoch 1/10 Batch 700/11616 Training Results ------------ 
+Total Loss: 12.984171899727412
+Span Start Loss: 5.886839977673122
+Span End Loss: 5.915219828060695
+Type Loss: 1.1821118416956493
+ ------------ Epoch 1/10 Batch 750/11616 Training Results ------------ 
+Total Loss: 12.949911478360494
+Span Start Loss: 5.882247138977051
+Span End Loss: 5.908679046630859
+Type Loss: 1.1589850501219432
+ ------------ Epoch 1/10 Batch 800/11616 Training Results ------------ 
+Total Loss: 12.910941483080387
+Span Start Loss: 5.875591681003571
+Span End Loss: 5.900931080579758
+Type Loss: 1.1344184763729572
+ ------------ Epoch 1/10 Batch 850/11616 Training Results ------------ 
+Total Loss: 12.871125340461731
+Span Start Loss: 5.866853192273308
+Span End Loss: 5.8907355897566855
+Type Loss: 1.113536309950492
+ ------------ Epoch 1/10 Batch 900/11616 Training Results ------------ 
+Total Loss: 12.827115298642052
+Span Start Loss: 5.857825169563293
+Span End Loss: 5.8785648594962225
+Type Loss: 1.0907250240776274
+ ------------ Epoch 1/10 Batch 950/11616 Training Results ------------ 
+Total Loss: 12.79387793666438
+Span Start Loss: 5.850264213963559
+Span End Loss: 5.868371557436491
+Type Loss: 1.0752419219205254
+ ------------ Epoch 1/10 Batch 1000/11616 Training Results ------------ 
+Total Loss: 12.759308381080627
+Span Start Loss: 5.841876971721649
+Span End Loss: 5.856696219444275
+Type Loss: 1.0607349456548691
+ ------------ Epoch 1/10 Batch 1050/11616 Training Results ------------ 
+Total Loss: 12.723457815533592
+Span Start Loss: 5.833548371905373
+Span End Loss: 5.8451070281437465
+Type Loss: 1.0448021665073577
+ ------------ Epoch 1/10 Batch 1100/11616 Training Results ------------ 
+Total Loss: 12.689321940595454
+Span Start Loss: 5.82376665765589
+Span End Loss: 5.833110016476025
+Type Loss: 1.0324450209194964
+ ------------ Epoch 1/10 Batch 1150/11616 Training Results ------------ 
+Total Loss: 12.654618574225385
+Span Start Loss: 5.8151727916883384
+Span End Loss: 5.820622273320737
+Type Loss: 1.0188232658479526
+ ------------ Epoch 1/10 Batch 1200/11616 Training Results ------------ 
+Total Loss: 12.619319834311803
+Span Start Loss: 5.805926516453425
+Span End Loss: 5.806746328274409
+Type Loss: 1.006646748483181
+ ------------ Epoch 1/10 Batch 1250/11616 Training Results ------------ 
+Total Loss: 12.580945326805114
+Span Start Loss: 5.794199974441528
+Span End Loss: 5.792661863708496
+Type Loss: 0.9940832494974137
+ ------------ Epoch 1/10 Batch 1300/11616 Training Results ------------ 
+Total Loss: 12.538531876527346
+Span Start Loss: 5.781624696071331
+Span End Loss: 5.776950559616089
+Type Loss: 0.9799563878545394
+ ------------ Epoch 1/10 Batch 1350/11616 Training Results ------------ 
+Total Loss: 12.501781665837322
+Span Start Loss: 5.7705566593452735
+Span End Loss: 5.762433336046007
+Type Loss: 0.9687914343012703
+ ------------ Epoch 1/10 Batch 1400/11616 Training Results ------------ 
+Total Loss: 12.46517100249018
+Span Start Loss: 5.7591967395373755
+Span End Loss: 5.748399299894061
+Type Loss: 0.957574729227594
+ ------------ Epoch 1/10 Batch 1450/11616 Training Results ------------ 
+Total Loss: 12.425279295855555
+Span Start Loss: 5.745683943978672
+Span End Loss: 5.731955975170793
+Type Loss: 0.9476391336321831
+ ------------ Epoch 1/10 Batch 1500/11616 Training Results ------------ 
+Total Loss: 12.390247432390849
+Span Start Loss: 5.732581909497579
+Span End Loss: 5.715862374941508
+Type Loss: 0.9418029067019622
+ ------------ Epoch 1/10 Batch 1550/11616 Training Results ------------ 
+Total Loss: 12.348777479125607
+Span Start Loss: 5.717510359364171
+Span End Loss: 5.699207943024174
+Type Loss: 0.9320589337425847
+ ------------ Epoch 1/10 Batch 1600/11616 Training Results ------------ 
+Total Loss: 12.30976549051702
+Span Start Loss: 5.70330112695694
+Span End Loss: 5.682716282904148
+Type Loss: 0.923747842554003
+ ------------ Epoch 1/10 Batch 1650/11616 Training Results ------------ 
+Total Loss: 12.268570942950971
+Span Start Loss: 5.686406789548469
+Span End Loss: 5.665273851625847
+Type Loss: 0.9168900652907112
+ ------------ Epoch 1/10 Batch 1700/11616 Training Results ------------ 
+Total Loss: 12.224019307949964
+Span Start Loss: 5.668692365534166
+Span End Loss: 5.646673196063322
+Type Loss: 0.9086535087490784
+ ------------ Epoch 1/10 Batch 1750/11616 Training Results ------------ 
+Total Loss: 12.17973427602223
+Span Start Loss: 5.649378693989345
+Span End Loss: 5.62873535319737
+Type Loss: 0.9016199897187097
+ ------------ Epoch 1/10 Batch 1800/11616 Training Results ------------ 
+Total Loss: 12.132248655954998
+Span Start Loss: 5.631899851030774
+Span End Loss: 5.605772564543618
+Type Loss: 0.8945760063247549
+ ------------ Epoch 1/10 Batch 1850/11616 Training Results ------------ 
+Total Loss: 12.090442860448682
+Span Start Loss: 5.616202806910953
+Span End Loss: 5.587360027029708
+Type Loss: 0.8868797942271104
+ ------------ Epoch 1/10 Batch 1900/11616 Training Results ------------ 
+Total Loss: 12.044572125610552
+Span Start Loss: 5.596205756413309
+Span End Loss: 5.5666039830759955
+Type Loss: 0.8817621555061717
+ ------------ Epoch 1/10 Batch 1950/11616 Training Results ------------ 
+Total Loss: 11.998108301407251
+Span Start Loss: 5.576592844571823
+Span End Loss: 5.545225679079691
+Type Loss: 0.876289548316063
+ ------------ Epoch 1/10 Batch 2000/11616 Training Results ------------ 
+Total Loss: 11.94749311119318
+Span Start Loss: 5.554986942768097
+Span End Loss: 5.523229108572006
+Type Loss: 0.8692768299952149
+ --------------- Epoch 1/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 1.7, 'f1': 9.6, 'turns': 1425}), ('literature', {'em': 2.8, 'f1': 8.1, 'turns': 1630}), ('mid-high_school', {'em': 2.8, 'f1': 8.5, 'turns': 1653}), ('news', {'em': 2.8, 'f1': 8.7, 'turns': 1649}), ('wikipedia', {'em': 3.6, 'f1': 9.7, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 2.8, 'f1': 8.9, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 2.8, 'f1': 8.9, 'turns': 7983})])
+ ------------ Epoch 1/10 Batch 2050/11616 Training Results ------------ 
+Total Loss: 11.899640203685296
+Span Start Loss: 5.535358190652801
+Span End Loss: 5.500664271261634
+Type Loss: 0.8636175123802046
+ ------------ Epoch 1/10 Batch 2100/11616 Training Results ------------ 
+Total Loss: 11.844970533109846
+Span Start Loss: 5.512872956934429
+Span End Loss: 5.474334826810019
+Type Loss: 0.8577625215479305
+ ------------ Epoch 1/10 Batch 2150/11616 Training Results ------------ 
+Total Loss: 11.792462137410807
+Span Start Loss: 5.489175244264825
+Span End Loss: 5.450583483784698
+Type Loss: 0.8527031828081885
+ ------------ Epoch 1/10 Batch 2200/11616 Training Results ------------ 
+Total Loss: 11.732195102897558
+Span Start Loss: 5.462141764922576
+Span End Loss: 5.422487230734392
+Type Loss: 0.847565880797126
+ ------------ Epoch 1/10 Batch 2250/11616 Training Results ------------ 
+Total Loss: 11.670247152911292
+Span Start Loss: 5.434201266500685
+Span End Loss: 5.3936884962717695
+Type Loss: 0.8423571674029032
+ ------------ Epoch 1/10 Batch 2300/11616 Training Results ------------ 
+Total Loss: 11.607465488496034
+Span Start Loss: 5.404647140088288
+Span End Loss: 5.364401511316714
+Type Loss: 0.8384166142085324
+ ------------ Epoch 1/10 Batch 2350/11616 Training Results ------------ 
+Total Loss: 11.537261023673606
+Span Start Loss: 5.371917718522092
+Span End Loss: 5.331223813625092
+Type Loss: 0.8341192721940102
+ ------------ Epoch 1/10 Batch 2400/11616 Training Results ------------ 
+Total Loss: 11.473107799390952
+Span Start Loss: 5.339831872383754
+Span End Loss: 5.3007349931200345
+Type Loss: 0.8325407150574029
+ ------------ Epoch 1/10 Batch 2450/11616 Training Results ------------ 
+Total Loss: 11.40595073626966
+Span Start Loss: 5.308857454475091
+Span End Loss: 5.267439928541378
+Type Loss: 0.8296531353252274
+ ------------ Epoch 1/10 Batch 2500/11616 Training Results ------------ 
+Total Loss: 11.34267775630951
+Span Start Loss: 5.278586836719513
+Span End Loss: 5.238645178699493
+Type Loss: 0.8254455231487751
+ ------------ Epoch 1/10 Batch 2550/11616 Training Results ------------ 
+Total Loss: 11.274356242488413
+Span Start Loss: 5.247189135364458
+Span End Loss: 5.205656163552228
+Type Loss: 0.8215107266634118
+ ------------ Epoch 1/10 Batch 2600/11616 Training Results ------------ 
+Total Loss: 11.199193071631285
+Span Start Loss: 5.211204884969272
+Span End Loss: 5.170687892070183
+Type Loss: 0.8173000791153082
+ ------------ Epoch 1/10 Batch 2650/11616 Training Results ------------ 
+Total Loss: 11.128191035311177
+Span Start Loss: 5.1785803894276885
+Span End Loss: 5.135801342928184
+Type Loss: 0.813809091032676
+ ------------ Epoch 1/10 Batch 2700/11616 Training Results ------------ 
+Total Loss: 11.061752949047971
+Span Start Loss: 5.147945383610549
+Span End Loss: 5.103641282364174
+Type Loss: 0.8101660708200048
+ ------------ Epoch 1/10 Batch 2750/11616 Training Results ------------ 
+Total Loss: 10.995828750783748
+Span Start Loss: 5.117037579406391
+Span End Loss: 5.071205367911945
+Type Loss: 0.8075855945782228
+ ------------ Epoch 1/10 Batch 2800/11616 Training Results ------------ 
+Total Loss: 10.931357838852065
+Span Start Loss: 5.086288369255406
+Span End Loss: 5.040642758139542
+Type Loss: 0.8044265044586999
+ ------------ Epoch 1/10 Batch 2850/11616 Training Results ------------ 
+Total Loss: 10.86765869552629
+Span Start Loss: 5.055292748442867
+Span End Loss: 5.011993782227499
+Type Loss: 0.8003719598839157
+ ------------ Epoch 1/10 Batch 2900/11616 Training Results ------------ 
+Total Loss: 10.803007469095032
+Span Start Loss: 5.024702901881317
+Span End Loss: 4.98156281795995
+Type Loss: 0.7967415441315749
+ ------------ Epoch 1/10 Batch 2950/11616 Training Results ------------ 
+Total Loss: 10.738939544508012
+Span Start Loss: 4.993913150156959
+Span End Loss: 4.9504764172182245
+Type Loss: 0.7945497731738171
+ ------------ Epoch 1/10 Batch 3000/11616 Training Results ------------ 
+Total Loss: 10.675040016869703
+Span Start Loss: 4.963922620773316
+Span End Loss: 4.919034168680509
+Type Loss: 0.7920830248544614
+ ------------ Epoch 1/10 Batch 3050/11616 Training Results ------------ 
+Total Loss: 10.622740119011675
+Span Start Loss: 4.937909202810194
+Span End Loss: 4.89491045224862
+Type Loss: 0.7899202619810574
+ ------------ Epoch 1/10 Batch 3100/11616 Training Results ------------ 
+Total Loss: 10.566006062203838
+Span Start Loss: 4.911790497533737
+Span End Loss: 4.86730499425242
+Type Loss: 0.7869103693769824
+ ------------ Epoch 1/10 Batch 3150/11616 Training Results ------------ 
+Total Loss: 10.504095908668306
+Span Start Loss: 4.883611198909699
+Span End Loss: 4.835940448367406
+Type Loss: 0.7845440625009082
+ ------------ Epoch 1/10 Batch 3200/11616 Training Results ------------ 
+Total Loss: 10.448700594529509
+Span Start Loss: 4.857477471493184
+Span End Loss: 4.808374307788909
+Type Loss: 0.7828486176766455
+ ------------ Epoch 1/10 Batch 3250/11616 Training Results ------------ 
+Total Loss: 10.395271601035045
+Span Start Loss: 4.832605597752791
+Span End Loss: 4.7818551310025725
+Type Loss: 0.780810675744827
+ ------------ Epoch 1/10 Batch 3300/11616 Training Results ------------ 
+Total Loss: 10.340850788896734
+Span Start Loss: 4.807067356615356
+Span End Loss: 4.754223200949755
+Type Loss: 0.7795600368443764
+ ------------ Epoch 1/10 Batch 3350/11616 Training Results ------------ 
+Total Loss: 10.287158869184665
+Span Start Loss: 4.781543600167801
+Span End Loss: 4.727971629242399
+Type Loss: 0.7776434464374585
+ ------------ Epoch 1/10 Batch 3400/11616 Training Results ------------ 
+Total Loss: 10.233661069940117
+Span Start Loss: 4.7563010926457014
+Span End Loss: 4.702562811024049
+Type Loss: 0.7747969742031658
+ ------------ Epoch 1/10 Batch 3450/11616 Training Results ------------ 
+Total Loss: 10.182071034372717
+Span Start Loss: 4.731840796056001
+Span End Loss: 4.677041901021764
+Type Loss: 0.7731881464261939
+ ------------ Epoch 1/10 Batch 3500/11616 Training Results ------------ 
+Total Loss: 10.12749835235732
+Span Start Loss: 4.70645083958762
+Span End Loss: 4.650257114750999
+Type Loss: 0.7707902078756265
+ ------------ Epoch 1/10 Batch 3550/11616 Training Results ------------ 
+Total Loss: 10.07776353619468
+Span Start Loss: 4.682995063116853
+Span End Loss: 4.624743314259489
+Type Loss: 0.7700249699681577
+ ------------ Epoch 1/10 Batch 3600/11616 Training Results ------------ 
+Total Loss: 10.03134037570821
+Span Start Loss: 4.661294909715653
+Span End Loss: 4.601673238078753
+Type Loss: 0.7683720398073395
+ ------------ Epoch 1/10 Batch 3650/11616 Training Results ------------ 
+Total Loss: 9.991221004397902
+Span Start Loss: 4.642252108528189
+Span End Loss: 4.5819864892633
+Type Loss: 0.7669822188068742
+ ------------ Epoch 1/10 Batch 3700/11616 Training Results ------------ 
+Total Loss: 9.942786776616767
+Span Start Loss: 4.619549542246638
+Span End Loss: 4.558520246486406
+Type Loss: 0.7647168001290914
+ ------------ Epoch 1/10 Batch 3750/11616 Training Results ------------ 
+Total Loss: 9.897274601221085
+Span Start Loss: 4.598290224615733
+Span End Loss: 4.537159657541911
+Type Loss: 0.7618245323459307
+ ------------ Epoch 1/10 Batch 3800/11616 Training Results ------------ 
+Total Loss: 9.849820115299602
+Span Start Loss: 4.574583851349981
+Span End Loss: 4.514111717406072
+Type Loss: 0.7611243608750795
+ ------------ Epoch 1/10 Batch 3850/11616 Training Results ------------ 
+Total Loss: 9.807179168911723
+Span Start Loss: 4.554800863482735
+Span End Loss: 4.493763936278108
+Type Loss: 0.7586141841829597
+ ------------ Epoch 1/10 Batch 3900/11616 Training Results ------------ 
+Total Loss: 9.763491606253844
+Span Start Loss: 4.533621770479741
+Span End Loss: 4.472985598888153
+Type Loss: 0.7568840528413271
+ ------------ Epoch 1/10 Batch 3950/11616 Training Results ------------ 
+Total Loss: 9.72129801836195
+Span Start Loss: 4.515131317995771
+Span End Loss: 4.451848625321931
+Type Loss: 0.754317892284333
+ ------------ Epoch 1/10 Batch 4000/11616 Training Results ------------ 
+Total Loss: 9.67756147570908
+Span Start Loss: 4.494871509581804
+Span End Loss: 4.431121062934398
+Type Loss: 0.7515687209460884
+ --------------- Epoch 1/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 28.4, 'f1': 42.0, 'turns': 1425}), ('literature', {'em': 29.0, 'f1': 40.4, 'turns': 1630}), ('mid-high_school', {'em': 27.8, 'f1': 40.8, 'turns': 1653}), ('news', {'em': 30.9, 'f1': 44.3, 'turns': 1649}), ('wikipedia', {'em': 30.4, 'f1': 45.0, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 29.3, 'f1': 42.5, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 29.3, 'f1': 42.5, 'turns': 7983})])
+ ------------ Epoch 1/10 Batch 4050/11616 Training Results ------------ 
+Total Loss: 9.630725421287396
+Span Start Loss: 4.472820073763529
+Span End Loss: 4.409073123166591
+Type Loss: 0.748832043359677
+ ------------ Epoch 1/10 Batch 4100/11616 Training Results ------------ 
+Total Loss: 9.587809201856938
+Span Start Loss: 4.45315570842929
+Span End Loss: 4.38867466574762
+Type Loss: 0.7459786479211435
+ ------------ Epoch 1/10 Batch 4150/11616 Training Results ------------ 
+Total Loss: 9.545026915116482
+Span Start Loss: 4.432910530222467
+Span End Loss: 4.367885027147201
+Type Loss: 0.7442311790944582
+ ------------ Epoch 1/10 Batch 4200/11616 Training Results ------------ 
+Total Loss: 9.501828527237688
+Span Start Loss: 4.414110997319222
+Span End Loss: 4.346853934540635
+Type Loss: 0.7408634187618182
+ ------------ Epoch 1/10 Batch 4250/11616 Training Results ------------ 
+Total Loss: 9.46389890775961
+Span Start Loss: 4.397794176185832
+Span End Loss: 4.328509984591428
+Type Loss: 0.7375945708401063
+ ------------ Epoch 1/10 Batch 4300/11616 Training Results ------------ 
+Total Loss: 9.425581640213036
+Span Start Loss: 4.380806400748186
+Span End Loss: 4.30996871838736
+Type Loss: 0.7348063454291848
+ ------------ Epoch 1/10 Batch 4350/11616 Training Results ------------ 
+Total Loss: 9.386732927821148
+Span Start Loss: 4.363368059492659
+Span End Loss: 4.2917702021406985
+Type Loss: 0.7315944915795806
+ ------------ Epoch 1/10 Batch 4400/11616 Training Results ------------ 
+Total Loss: 9.348825828121466
+Span Start Loss: 4.34667660778219
+Span End Loss: 4.273497344675389
+Type Loss: 0.7286517018934882
+ ------------ Epoch 1/10 Batch 4450/11616 Training Results ------------ 
+Total Loss: 9.312106748042481
+Span Start Loss: 4.330394605250841
+Span End Loss: 4.255612392412143
+Type Loss: 0.7260995772899537
+ ------------ Epoch 1/10 Batch 4500/11616 Training Results ------------ 
+Total Loss: 9.274228063291973
+Span Start Loss: 4.313744709147348
+Span End Loss: 4.237627318395509
+Type Loss: 0.7228558636142148
+ ------------ Epoch 1/10 Batch 4550/11616 Training Results ------------ 
+Total Loss: 9.236327130584927
+Span Start Loss: 4.297786680263477
+Span End Loss: 4.218614212615149
+Type Loss: 0.7199260660334603
+ ------------ Epoch 1/10 Batch 4600/11616 Training Results ------------ 
+Total Loss: 9.196683242204397
+Span Start Loss: 4.280292514744012
+Span End Loss: 4.199613304669443
+Type Loss: 0.7167772520965208
+ ------------ Epoch 1/10 Batch 4650/11616 Training Results ------------ 
+Total Loss: 9.160586504173535
+Span Start Loss: 4.264588798963896
+Span End Loss: 4.181743331660506
+Type Loss: 0.7142542043752889
+ ------------ Epoch 1/10 Batch 4700/11616 Training Results ------------ 
+Total Loss: 9.125427444849876
+Span Start Loss: 4.248939926522843
+Span End Loss: 4.1648963702866375
+Type Loss: 0.7115909800115735
+ ------------ Epoch 1/10 Batch 4750/11616 Training Results ------------ 
+Total Loss: 9.087724561471688
+Span Start Loss: 4.231749373260297
+Span End Loss: 4.147390198619743
+Type Loss: 0.7085848222374916
+ ------------ Epoch 1/10 Batch 4800/11616 Training Results ------------ 
+Total Loss: 9.052571566868574
+Span Start Loss: 4.216022737845779
+Span End Loss: 4.130372280379136
+Type Loss: 0.7061763828007194
+ ------------ Epoch 1/10 Batch 4850/11616 Training Results ------------ 
+Total Loss: 9.018331641173853
+Span Start Loss: 4.200038595642011
+Span End Loss: 4.11518003178626
+Type Loss: 0.7031128487966417
+ ------------ Epoch 1/10 Batch 4900/11616 Training Results ------------ 
+Total Loss: 8.986004389153452
+Span Start Loss: 4.185490556225485
+Span End Loss: 4.100124227866835
+Type Loss: 0.7003894405120186
+ ------------ Epoch 1/10 Batch 4950/11616 Training Results ------------ 
+Total Loss: 8.949740075914546
+Span Start Loss: 4.1687409178175105
+Span End Loss: 4.083652860961779
+Type Loss: 0.6973461332149578
+ ------------ Epoch 1/10 Batch 5000/11616 Training Results ------------ 
+Total Loss: 8.91730763038993
+Span Start Loss: 4.153649886393547
+Span End Loss: 4.068623069179058
+Type Loss: 0.6950345120698214
+ ------------ Epoch 1/10 Batch 5050/11616 Training Results ------------ 
+Total Loss: 8.885170396690322
+Span Start Loss: 4.139595035798479
+Span End Loss: 4.053102434495888
+Type Loss: 0.6924727648806454
+ ------------ Epoch 1/10 Batch 5100/11616 Training Results ------------ 
+Total Loss: 8.848657637746895
+Span Start Loss: 4.123282141778983
+Span End Loss: 4.035836170876728
+Type Loss: 0.6895391638781511
+ ------------ Epoch 1/10 Batch 5150/11616 Training Results ------------ 
+Total Loss: 8.820067282990344
+Span Start Loss: 4.109865356579568
+Span End Loss: 4.022603992709835
+Type Loss: 0.6875977736856174
+ ------------ Epoch 1/10 Batch 5200/11616 Training Results ------------ 
+Total Loss: 8.78858108087801
+Span Start Loss: 4.095492033820886
+Span End Loss: 4.008109648835201
+Type Loss: 0.6849792383124049
+ ------------ Epoch 1/10 Batch 5250/11616 Training Results ------------ 
+Total Loss: 8.757145159840583
+Span Start Loss: 4.08159731224605
+Span End Loss: 3.9928999446346647
+Type Loss: 0.6826477440020867
+ ------------ Epoch 1/10 Batch 5300/11616 Training Results ------------ 
+Total Loss: 8.72683561624221
+Span Start Loss: 4.067477232172804
+Span End Loss: 3.9795671445356224
+Type Loss: 0.6797910810915648
+ ------------ Epoch 1/10 Batch 5350/11616 Training Results ------------ 
+Total Loss: 8.697845953229432
+Span Start Loss: 4.054246410343135
+Span End Loss: 3.9660461933701954
+Type Loss: 0.6775531913945887
+ ------------ Epoch 1/10 Batch 5400/11616 Training Results ------------ 
+Total Loss: 8.66893718002571
+Span Start Loss: 4.041678124489608
+Span End Loss: 3.952140201142541
+Type Loss: 0.6751186970007365
+ ------------ Epoch 1/10 Batch 5450/11616 Training Results ------------ 
+Total Loss: 8.642096987804141
+Span Start Loss: 4.029739111902517
+Span End Loss: 3.9391793775230375
+Type Loss: 0.6731783411022993
+ ------------ Epoch 1/10 Batch 5500/11616 Training Results ------------ 
+Total Loss: 8.61725807517767
+Span Start Loss: 4.019400003162297
+Span End Loss: 3.92707333437963
+Type Loss: 0.6707845809943974
+ ------------ Epoch 1/10 Batch 5550/11616 Training Results ------------ 
+Total Loss: 8.59134180795502
+Span Start Loss: 4.007736495475512
+Span End Loss: 3.91506731063396
+Type Loss: 0.6685378457676318
+ ------------ Epoch 1/10 Batch 5600/11616 Training Results ------------ 
+Total Loss: 8.563360587933234
+Span Start Loss: 3.9950093392282726
+Span End Loss: 3.9028988783700127
+Type Loss: 0.6654522149959978
+ ------------ Epoch 1/10 Batch 5650/11616 Training Results ------------ 
+Total Loss: 8.535835700805208
+Span Start Loss: 3.982243207397714
+Span End Loss: 3.889813770931379
+Type Loss: 0.663778568064151
+ ------------ Epoch 1/10 Batch 5700/11616 Training Results ------------ 
+Total Loss: 8.510066106183487
+Span Start Loss: 3.9715141521106685
+Span End Loss: 3.8763479893667654
+Type Loss: 0.6622038104048554
+ ------------ Epoch 1/10 Batch 5750/11616 Training Results ------------ 
+Total Loss: 8.481960341127023
+Span Start Loss: 3.958867160745289
+Span End Loss: 3.8629721958326257
+Type Loss: 0.6601208303548072
+ ------------ Epoch 1/10 Batch 5800/11616 Training Results ------------ 
+Total Loss: 8.451939211683026
+Span Start Loss: 3.9449740396388644
+Span End Loss: 3.849254961435137
+Type Loss: 0.6577100572018916
+ ------------ Epoch 1/10 Batch 5850/11616 Training Results ------------ 
+Total Loss: 8.42737245111384
+Span Start Loss: 3.934602253936295
+Span End Loss: 3.837494826164001
+Type Loss: 0.655275218019055
+ ------------ Epoch 1/10 Batch 5900/11616 Training Results ------------ 
+Total Loss: 8.403993807429984
+Span Start Loss: 3.924083335561267
+Span End Loss: 3.825847433512494
+Type Loss: 0.6540628861664337
+ ------------ Epoch 1/10 Batch 5950/11616 Training Results ------------ 
+Total Loss: 8.381169527543692
+Span Start Loss: 3.9138024641485774
+Span End Loss: 3.815312095259418
+Type Loss: 0.652054816564592
+ ------------ Epoch 1/10 Batch 6000/11616 Training Results ------------ 
+Total Loss: 8.358188202256958
+Span Start Loss: 3.9034148994088174
+Span End Loss: 3.804323671470086
+Type Loss: 0.6504494799099242
+ --------------- Epoch 1/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 34.6, 'f1': 48.9, 'turns': 1425}), ('literature', {'em': 36.0, 'f1': 48.1, 'turns': 1630}), ('mid-high_school', {'em': 36.1, 'f1': 48.9, 'turns': 1653}), ('news', {'em': 39.8, 'f1': 52.9, 'turns': 1649}), ('wikipedia', {'em': 40.1, 'f1': 53.9, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 37.4, 'f1': 50.6, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 37.4, 'f1': 50.6, 'turns': 7983})])
+ ------------ Epoch 1/10 Batch 6050/11616 Training Results ------------ 
+Total Loss: 8.335122800883182
+Span Start Loss: 3.893006780009624
+Span End Loss: 3.7931694143764245
+Type Loss: 0.6489464560289644
+ ------------ Epoch 1/10 Batch 6100/11616 Training Results ------------ 
+Total Loss: 8.314866562383097
+Span Start Loss: 3.8835894688621897
+Span End Loss: 3.7833903787663727
+Type Loss: 0.6478865646744971
+ ------------ Epoch 1/10 Batch 6150/11616 Training Results ------------ 
+Total Loss: 8.29232207393743
+Span Start Loss: 3.872561038238246
+Span End Loss: 3.7737393528949923
+Type Loss: 0.646021533258017
+ ------------ Epoch 1/10 Batch 6200/11616 Training Results ------------ 
+Total Loss: 8.270005120120702
+Span Start Loss: 3.8630385783603116
+Span End Loss: 3.763091281969701
+Type Loss: 0.643875110846073
+ ------------ Epoch 1/10 Batch 6250/11616 Training Results ------------ 
+Total Loss: 8.247987570929528
+Span Start Loss: 3.8533604511260986
+Span End Loss: 3.7527516988277436
+Type Loss: 0.6418752722463011
+ ------------ Epoch 1/10 Batch 6300/11616 Training Results ------------ 
+Total Loss: 8.225059148976728
+Span Start Loss: 3.8429648756791677
+Span End Loss: 3.7420157236428486
+Type Loss: 0.6400784013896352
+ ------------ Epoch 1/10 Batch 6350/11616 Training Results ------------ 
+Total Loss: 8.204916364423871
+Span Start Loss: 3.833945057636171
+Span End Loss: 3.732942798109505
+Type Loss: 0.638028360771558
+ ------------ Epoch 1/10 Batch 6400/11616 Training Results ------------ 
+Total Loss: 8.183522311761044
+Span Start Loss: 3.8247499751020224
+Span End Loss: 3.7225760946422817
+Type Loss: 0.6361960943465238
+ ------------ Epoch 1/10 Batch 6450/11616 Training Results ------------ 
+Total Loss: 8.159229299402977
+Span Start Loss: 3.8134338205082474
+Span End Loss: 3.7109784883953805
+Type Loss: 0.6348168432911815
+ ------------ Epoch 1/10 Batch 6500/11616 Training Results ------------ 
+Total Loss: 8.138009239710295
+Span Start Loss: 3.803715588037784
+Span End Loss: 3.7012692847985487
+Type Loss: 0.6330242198135417
+ ------------ Epoch 1/10 Batch 6550/11616 Training Results ------------ 
+Total Loss: 8.115995551839129
+Span Start Loss: 3.7931315777683987
+Span End Loss: 3.6914874125072976
+Type Loss: 0.631376414747468
+ ------------ Epoch 1/10 Batch 6600/11616 Training Results ------------ 
+Total Loss: 8.093867320635102
+Span Start Loss: 3.7837279452157744
+Span End Loss: 3.680411221673994
+Type Loss: 0.6297280070323948
+ ------------ Epoch 1/10 Batch 6650/11616 Training Results ------------ 
+Total Loss: 8.073328646883033
+Span Start Loss: 3.774603113106319
+Span End Loss: 3.6705463911268046
+Type Loss: 0.6281789966821111
+ ------------ Epoch 1/10 Batch 6700/11616 Training Results ------------ 
+Total Loss: 8.051686086160924
+Span Start Loss: 3.7646680796324317
+Span End Loss: 3.6598879240475486
+Type Loss: 0.6271299367339642
+ ------------ Epoch 1/10 Batch 6750/11616 Training Results ------------ 
+Total Loss: 8.030309020104232
+Span Start Loss: 3.7553966861301
+Span End Loss: 3.649564506641141
+Type Loss: 0.6253476815960474
+ ------------ Epoch 1/10 Batch 6800/11616 Training Results ------------ 
+Total Loss: 8.011735595631249
+Span Start Loss: 3.7472819514309657
+Span End Loss: 3.6410591642251786
+Type Loss: 0.6233943348446422
+ ------------ Epoch 1/10 Batch 6850/11616 Training Results ------------ 
+Total Loss: 7.988533957465722
+Span Start Loss: 3.7367043786849417
+Span End Loss: 3.6300095255662055
+Type Loss: 0.6218199083005098
+ ------------ Epoch 1/10 Batch 6900/11616 Training Results ------------ 
+Total Loss: 7.969871760364891
+Span Start Loss: 3.72792968482211
+Span End Loss: 3.6206337134259337
+Type Loss: 0.6213082173658346
+ ------------ Epoch 1/10 Batch 6950/11616 Training Results ------------ 
+Total Loss: 7.949382440649348
+Span Start Loss: 3.71861581474757
+Span End Loss: 3.611041420453744
+Type Loss: 0.6197250611471723
+ ------------ Epoch 1/10 Batch 7000/11616 Training Results ------------ 
+Total Loss: 7.927125462549073
+Span Start Loss: 3.708616955229214
+Span End Loss: 3.600495125681162
+Type Loss: 0.6180132378698991
+ ------------ Epoch 1/10 Batch 7050/11616 Training Results ------------ 
+Total Loss: 7.908520592231277
+Span Start Loss: 3.700589392878485
+Span End Loss: 3.5913012608695536
+Type Loss: 0.6166297951982693
+ ------------ Epoch 1/10 Batch 7100/11616 Training Results ------------ 
+Total Loss: 7.88851863147927
+Span Start Loss: 3.6913440648099067
+Span End Loss: 3.5820311570125565
+Type Loss: 0.6151432662653986
+ ------------ Epoch 1/10 Batch 7150/11616 Training Results ------------ 
+Total Loss: 7.870232627983693
+Span Start Loss: 3.6825495789184437
+Span End Loss: 3.5740135301618308
+Type Loss: 0.6136693761555048
+ ------------ Epoch 1/10 Batch 7200/11616 Training Results ------------ 
+Total Loss: 7.852263754440679
+Span Start Loss: 3.6742178331812223
+Span End Loss: 3.5656637277247176
+Type Loss: 0.6123820515308115
+ ------------ Epoch 1/10 Batch 7250/11616 Training Results ------------ 
+Total Loss: 7.832423589126817
+Span Start Loss: 3.6651890522200485
+Span End Loss: 3.5563604068961636
+Type Loss: 0.6108739885060952
+ ------------ Epoch 1/10 Batch 7300/11616 Training Results ------------ 
+Total Loss: 7.815521828503641
+Span Start Loss: 3.6574547802748745
+Span End Loss: 3.5483247569366676
+Type Loss: 0.6097421499456547
+ ------------ Epoch 1/10 Batch 7350/11616 Training Results ------------ 
+Total Loss: 7.7985288335352525
+Span Start Loss: 3.649326595376138
+Span End Loss: 3.5406035855311115
+Type Loss: 0.6085985118971795
+ ------------ Epoch 1/10 Batch 7400/11616 Training Results ------------ 
+Total Loss: 7.780533860200966
+Span Start Loss: 3.640899985126547
+Span End Loss: 3.5322439069804306
+Type Loss: 0.6073898277391453
+ ------------ Epoch 1/10 Batch 7450/11616 Training Results ------------ 
+Total Loss: 7.7623129950473775
+Span Start Loss: 3.63274181060343
+Span End Loss: 3.523737216383819
+Type Loss: 0.6058338277961984
+ ------------ Epoch 1/10 Batch 7500/11616 Training Results ------------ 
+Total Loss: 7.745207596679529
+Span Start Loss: 3.6253001750946043
+Span End Loss: 3.515489974908034
+Type Loss: 0.6044173066116869
+ ------------ Epoch 1/10 Batch 7550/11616 Training Results ------------ 
+Total Loss: 7.727283902989318
+Span Start Loss: 3.617116024383646
+Span End Loss: 3.506827968149785
+Type Loss: 0.6033397705036382
+ ------------ Epoch 1/10 Batch 7600/11616 Training Results ------------ 
+Total Loss: 7.709096515453176
+Span Start Loss: 3.6090957366635923
+Span End Loss: 3.4979419335762136
+Type Loss: 0.602058705788743
+ ------------ Epoch 1/10 Batch 7650/11616 Training Results ------------ 
+Total Loss: 7.693167388400221
+Span Start Loss: 3.6023545564545527
+Span End Loss: 3.4901272300372717
+Type Loss: 0.6006854628143358
+ ------------ Epoch 1/10 Batch 7700/11616 Training Results ------------ 
+Total Loss: 7.67774357729918
+Span Start Loss: 3.5952151362772113
+Span End Loss: 3.4830301627129705
+Type Loss: 0.5994981395898314
+ ------------ Epoch 1/10 Batch 7750/11616 Training Results ------------ 
+Total Loss: 7.662708977653134
+Span Start Loss: 3.5882567862541443
+Span End Loss: 3.476072766938517
+Type Loss: 0.5983792859565827
+ ------------ Epoch 1/10 Batch 7800/11616 Training Results ------------ 
+Total Loss: 7.648260958836629
+Span Start Loss: 3.582298650924976
+Span End Loss: 3.4690047911076975
+Type Loss: 0.5969573784688822
+ ------------ Epoch 1/10 Batch 7850/11616 Training Results ------------ 
+Total Loss: 7.633728786885359
+Span Start Loss: 3.5759448157374267
+Span End Loss: 3.4621030404954958
+Type Loss: 0.5956807924557928
+ ------------ Epoch 1/10 Batch 7900/11616 Training Results ------------ 
+Total Loss: 7.618810952294476
+Span Start Loss: 3.5692183922740477
+Span End Loss: 3.455068600966206
+Type Loss: 0.5945238208777825
+ ------------ Epoch 1/10 Batch 7950/11616 Training Results ------------ 
+Total Loss: 7.601807735569822
+Span Start Loss: 3.561394285938275
+Span End Loss: 3.446836380984798
+Type Loss: 0.5935769305708555
+ ------------ Epoch 1/10 Batch 8000/11616 Training Results ------------ 
+Total Loss: 7.586982387881726
+Span Start Loss: 3.55455293083936
+Span End Loss: 3.439629375439137
+Type Loss: 0.592799943922786
+ --------------- Epoch 1/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 44.8, 'f1': 57.3, 'turns': 1425}), ('literature', {'em': 41.6, 'f1': 52.4, 'turns': 1630}), ('mid-high_school', {'em': 41.9, 'f1': 54.3, 'turns': 1653}), ('news', {'em': 46.6, 'f1': 57.9, 'turns': 1649}), ('wikipedia', {'em': 45.7, 'f1': 58.8, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 44.1, 'f1': 56.1, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 44.1, 'f1': 56.1, 'turns': 7983})])
+ ------------ Epoch 1/10 Batch 8050/11616 Training Results ------------ 
+Total Loss: 7.573390304727584
+Span Start Loss: 3.548066709448832
+Span End Loss: 3.4334529079524625
+Type Loss: 0.5918705497207757
+ ------------ Epoch 1/10 Batch 8100/11616 Training Results ------------ 
+Total Loss: 7.558290365319929
+Span Start Loss: 3.5411086772621414
+Span End Loss: 3.4264390762168686
+Type Loss: 0.5907424748208328
+ ------------ Epoch 1/10 Batch 8150/11616 Training Results ------------ 
+Total Loss: 7.543277149167529
+Span Start Loss: 3.534226387812316
+Span End Loss: 3.419492056644036
+Type Loss: 0.5895585675114777
+ ------------ Epoch 1/10 Batch 8200/11616 Training Results ------------ 
+Total Loss: 7.528679065751593
+Span Start Loss: 3.5274104603834266
+Span End Loss: 3.413119349156211
+Type Loss: 0.58814911938545
+ ------------ Epoch 1/10 Batch 8250/11616 Training Results ------------ 
+Total Loss: 7.512320682876038
+Span Start Loss: 3.5196811375256742
+Span End Loss: 3.4055289905757613
+Type Loss: 0.5871104185847622
+ ------------ Epoch 1/10 Batch 8300/11616 Training Results ------------ 
+Total Loss: 7.497825395989131
+Span Start Loss: 3.5135354445784923
+Span End Loss: 3.397959739899779
+Type Loss: 0.5863300756154111
+ ------------ Epoch 1/10 Batch 8350/11616 Training Results ------------ 
+Total Loss: 7.483421000249372
+Span Start Loss: 3.5067769378530764
+Span End Loss: 3.3911106121147463
+Type Loss: 0.5855333146533209
+ ------------ Epoch 1/10 Batch 8400/11616 Training Results ------------ 
+Total Loss: 7.467824638031778
+Span Start Loss: 3.4993122387074287
+Span End Loss: 3.3835937393811486
+Type Loss: 0.584918524628239
+ ------------ Epoch 1/10 Batch 8450/11616 Training Results ------------ 
+Total Loss: 7.454530697143995
+Span Start Loss: 3.4933421986060735
+Span End Loss: 3.3769217694123115
+Type Loss: 0.5842665940580459
+ ------------ Epoch 1/10 Batch 8500/11616 Training Results ------------ 
+Total Loss: 7.442142167950378
+Span Start Loss: 3.487697127566618
+Span End Loss: 3.3714842778549476
+Type Loss: 0.5829606277938275
+ ------------ Epoch 1/10 Batch 8550/11616 Training Results ------------ 
+Total Loss: 7.428360678246844
+Span Start Loss: 3.481934548079619
+Span End Loss: 3.3646886857036957
+Type Loss: 0.5817373102461124
+ ------------ Epoch 1/10 Batch 8600/11616 Training Results ------------ 
+Total Loss: 7.412731655756401
+Span Start Loss: 3.4750350487301516
+Span End Loss: 3.3570178808479807
+Type Loss: 0.5806785923047642
+ ------------ Epoch 1/10 Batch 8650/11616 Training Results ------------ 
+Total Loss: 7.399253215903491
+Span Start Loss: 3.468826349629143
+Span End Loss: 3.3507640034373787
+Type Loss: 0.5796627292028397
+ ------------ Epoch 1/10 Batch 8700/11616 Training Results ------------ 
+Total Loss: 7.3845095350482
+Span Start Loss: 3.4618958412710277
+Span End Loss: 3.344028284765523
+Type Loss: 0.5785852754689839
+ ------------ Epoch 1/10 Batch 8750/11616 Training Results ------------ 
+Total Loss: 7.370588386722973
+Span Start Loss: 3.455368918343953
+Span End Loss: 3.337376440058436
+Type Loss: 0.5778428950667381
+ ------------ Epoch 1/10 Batch 8800/11616 Training Results ------------ 
+Total Loss: 7.357478088055822
+Span Start Loss: 3.44919439336793
+Span End Loss: 3.3312779928709975
+Type Loss: 0.5770055688483725
+ ------------ Epoch 1/10 Batch 8850/11616 Training Results ------------ 
+Total Loss: 7.344497986971322
+Span Start Loss: 3.4429091648395453
+Span End Loss: 3.325336470236886
+Type Loss: 0.5762522192095212
+ ------------ Epoch 1/10 Batch 8900/11616 Training Results ------------ 
+Total Loss: 7.3335030941815855
+Span Start Loss: 3.4378297792592747
+Span End Loss: 3.320465539690484
+Type Loss: 0.5752076426418393
+ ------------ Epoch 1/10 Batch 8950/11616 Training Results ------------ 
+Total Loss: 7.320283733533081
+Span Start Loss: 3.4316240084970464
+Span End Loss: 3.314212338801203
+Type Loss: 0.5744472539027393
+ ------------ Epoch 1/10 Batch 9000/11616 Training Results ------------ 
+Total Loss: 7.306991893798113
+Span Start Loss: 3.4251965903109975
+Span End Loss: 3.308202719744709
+Type Loss: 0.573592451074885
+ ------------ Epoch 1/10 Batch 9050/11616 Training Results ------------ 
+Total Loss: 7.294365846435668
+Span Start Loss: 3.4194762402542387
+Span End Loss: 3.3021975487338904
+Type Loss: 0.5726919251001178
+ ------------ Epoch 1/10 Batch 9100/11616 Training Results ------------ 
+Total Loss: 7.282635049047051
+Span Start Loss: 3.413949686426383
+Span End Loss: 3.296796618277555
+Type Loss: 0.5718886120408609
+ ------------ Epoch 1/10 Batch 9150/11616 Training Results ------------ 
+Total Loss: 7.269647224483594
+Span Start Loss: 3.4082247399176406
+Span End Loss: 3.2903881958045593
+Type Loss: 0.5710341563955194
+ ------------ Epoch 1/10 Batch 9200/11616 Training Results ------------ 
+Total Loss: 7.256727673696435
+Span Start Loss: 3.402357259787943
+Span End Loss: 3.284261282977203
+Type Loss: 0.5701089987745913
+ ------------ Epoch 1/10 Batch 9250/11616 Training Results ------------ 
+Total Loss: 7.243235544079059
+Span Start Loss: 3.395983543228459
+Span End Loss: 3.278147016302959
+Type Loss: 0.5691048525946366
+ ------------ Epoch 1/10 Batch 9300/11616 Training Results ------------ 
+Total Loss: 7.231151154813587
+Span Start Loss: 3.3903450439437743
+Span End Loss: 3.2726110558259873
+Type Loss: 0.568194923077019
+ ------------ Epoch 1/10 Batch 9350/11616 Training Results ------------ 
+Total Loss: 7.2218048077694235
+Span Start Loss: 3.386011630405079
+Span End Loss: 3.2682372172917913
+Type Loss: 0.5675558281723748
+ ------------ Epoch 1/10 Batch 9400/11616 Training Results ------------ 
+Total Loss: 7.20882508691321
+Span Start Loss: 3.380042938412504
+Span End Loss: 3.2623619932158197
+Type Loss: 0.566420023606773
+ ------------ Epoch 1/10 Batch 9450/11616 Training Results ------------ 
+Total Loss: 7.198374499246557
+Span Start Loss: 3.375454375415883
+Span End Loss: 3.2573306114742997
+Type Loss: 0.5655893807296478
+ ------------ Epoch 1/10 Batch 9500/11616 Training Results ------------ 
+Total Loss: 7.18582991231429
+Span Start Loss: 3.369994420026478
+Span End Loss: 3.2514147008594714
+Type Loss: 0.5644206600944071
+ ------------ Epoch 1/10 Batch 9550/11616 Training Results ------------ 
+Total Loss: 7.173812375159164
+Span Start Loss: 3.3646048464637777
+Span End Loss: 3.2455113531469673
+Type Loss: 0.5636960445752085
+ ------------ Epoch 1/10 Batch 9600/11616 Training Results ------------ 
+Total Loss: 7.162555651847894
+Span Start Loss: 3.359691436520467
+Span End Loss: 3.240291450439642
+Type Loss: 0.5625726342362274
+ ------------ Epoch 1/10 Batch 9650/11616 Training Results ------------ 
+Total Loss: 7.148975650973888
+Span Start Loss: 3.3533941962002474
+Span End Loss: 3.233758929677578
+Type Loss: 0.5618223944188632
+ ------------ Epoch 1/10 Batch 9700/11616 Training Results ------------ 
+Total Loss: 7.137781484932015
+Span Start Loss: 3.3480793346387823
+Span End Loss: 3.2285039151698043
+Type Loss: 0.5611981046597291
+ ------------ Epoch 1/10 Batch 9750/11616 Training Results ------------ 
+Total Loss: 7.127407736044663
+Span Start Loss: 3.343506659477185
+Span End Loss: 3.223583827257156
+Type Loss: 0.5603171192405698
+ ------------ Epoch 1/10 Batch 9800/11616 Training Results ------------ 
+Total Loss: 7.116123694105416
+Span Start Loss: 3.338148621862032
+Span End Loss: 3.218353427387014
+Type Loss: 0.5596215155138159
+ ------------ Epoch 1/10 Batch 9850/11616 Training Results ------------ 
+Total Loss: 7.105652097487813
+Span Start Loss: 3.3333546885621126
+Span End Loss: 3.2135541316458416
+Type Loss: 0.5587431481502345
+ ------------ Epoch 1/10 Batch 9900/11616 Training Results ------------ 
+Total Loss: 7.093048608167605
+Span Start Loss: 3.3274469260434913
+Span End Loss: 3.2077642174802645
+Type Loss: 0.5578373357103291
+ ------------ Epoch 1/10 Batch 9950/11616 Training Results ------------ 
+Total Loss: 7.08053348717378
+Span Start Loss: 3.3222236213672103
+Span End Loss: 3.201414904013351
+Type Loss: 0.556894833002539
+ ------------ Epoch 1/10 Batch 10000/11616 Training Results ------------ 
+Total Loss: 7.0709882351458075
+Span Start Loss: 3.3177652929008006
+Span End Loss: 3.197386384052038
+Type Loss: 0.5558364295224659
+ --------------- Epoch 1/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 48.9, 'f1': 61.6, 'turns': 1425}), ('literature', {'em': 43.4, 'f1': 54.6, 'turns': 1630}), ('mid-high_school', {'em': 46.2, 'f1': 57.6, 'turns': 1653}), ('news', {'em': 49.0, 'f1': 60.9, 'turns': 1649}), ('wikipedia', {'em': 50.6, 'f1': 63.5, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 47.6, 'f1': 59.6, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 47.6, 'f1': 59.6, 'turns': 7983})])
+ ------------ Epoch 1/10 Batch 10050/11616 Training Results ------------ 
+Total Loss: 7.0599884908887285
+Span Start Loss: 3.3126708323860643
+Span End Loss: 3.192166447740289
+Type Loss: 0.555151082319833
+ ------------ Epoch 1/10 Batch 10100/11616 Training Results ------------ 
+Total Loss: 7.046800503813394
+Span Start Loss: 3.3067878451795862
+Span End Loss: 3.1858853074583675
+Type Loss: 0.5541272232876077
+ ------------ Epoch 1/10 Batch 10150/11616 Training Results ------------ 
+Total Loss: 7.038217398935351
+Span Start Loss: 3.3030023661387964
+Span End Loss: 3.1819257210980494
+Type Loss: 0.5532891841272232
+ ------------ Epoch 1/10 Batch 10200/11616 Training Results ------------ 
+Total Loss: 7.026831047076221
+Span Start Loss: 3.2979300280996395
+Span End Loss: 3.176227643238563
+Type Loss: 0.5526732487029706
+ ------------ Epoch 1/10 Batch 10250/11616 Training Results ------------ 
+Total Loss: 7.015437513444482
+Span Start Loss: 3.292460182905197
+Span End Loss: 3.17088690626912
+Type Loss: 0.5520902973394387
+ ------------ Epoch 1/10 Batch 10300/11616 Training Results ------------ 
+Total Loss: 7.004959701942009
+Span Start Loss: 3.2878373503742866
+Span End Loss: 3.165833370859183
+Type Loss: 0.5512888541993983
+ ------------ Epoch 1/10 Batch 10350/11616 Training Results ------------ 
+Total Loss: 6.99444822224154
+Span Start Loss: 3.283037784151409
+Span End Loss: 3.1609628546180355
+Type Loss: 0.5504474571220361
+ ------------ Epoch 1/10 Batch 10400/11616 Training Results ------------ 
+Total Loss: 6.982176872915947
+Span Start Loss: 3.276995081574871
+Span End Loss: 3.1554151636648635
+Type Loss: 0.549766501470451
+ ------------ Epoch 1/10 Batch 10450/11616 Training Results ------------ 
+Total Loss: 6.971973203029929
+Span Start Loss: 3.272275523534802
+Span End Loss: 3.1509402877805335
+Type Loss: 0.5487572659139464
+ ------------ Epoch 1/10 Batch 10500/11616 Training Results ------------ 
+Total Loss: 6.960786071618398
+Span Start Loss: 3.2674225509734383
+Span End Loss: 3.1455845327490852
+Type Loss: 0.5477788622465339
+ ------------ Epoch 1/10 Batch 10550/11616 Training Results ------------ 
+Total Loss: 6.948983979083915
+Span Start Loss: 3.262075641132644
+Span End Loss: 3.1398753207046273
+Type Loss: 0.5470328918105583
+ ------------ Epoch 1/10 Batch 10600/11616 Training Results ------------ 
+Total Loss: 6.937830701526606
+Span Start Loss: 3.256812993749133
+Span End Loss: 3.1346178742455986
+Type Loss: 0.5463997084980409
+ ------------ Epoch 1/10 Batch 10650/11616 Training Results ------------ 
+Total Loss: 6.927627479442409
+Span Start Loss: 3.2516505979036503
+Span End Loss: 3.1302754101283115
+Type Loss: 0.5457013466173319
+ ------------ Epoch 1/10 Batch 10700/11616 Training Results ------------ 
+Total Loss: 6.917681879445771
+Span Start Loss: 3.24719780213922
+Span End Loss: 3.1254620086534
+Type Loss: 0.545021944073612
+ ------------ Epoch 1/10 Batch 10750/11616 Training Results ------------ 
+Total Loss: 6.909495773454045
+Span Start Loss: 3.2435198275377584
+Span End Loss: 3.1212913897481074
+Type Loss: 0.5446844317369857
+ ------------ Epoch 1/10 Batch 10800/11616 Training Results ------------ 
+Total Loss: 6.899560573793671
+Span Start Loss: 3.2390624935152355
+Span End Loss: 3.1164096022590444
+Type Loss: 0.5440883537610406
+ ------------ Epoch 1/10 Batch 10850/11616 Training Results ------------ 
+Total Loss: 6.890698649545419
+Span Start Loss: 3.235299823558825
+Span End Loss: 3.111751426716554
+Type Loss: 0.5436472755482566
+ ------------ Epoch 1/10 Batch 10900/11616 Training Results ------------ 
+Total Loss: 6.88047039861526
+Span Start Loss: 3.2304664962608878
+Span End Loss: 3.1070529371335964
+Type Loss: 0.5429508417490186
+ ------------ Epoch 1/10 Batch 10950/11616 Training Results ------------ 
+Total Loss: 6.870650394390163
+Span Start Loss: 3.2257853856315353
+Span End Loss: 3.102818209537088
+Type Loss: 0.5420466759481964
+ ------------ Epoch 1/10 Batch 11000/11616 Training Results ------------ 
+Total Loss: 6.860056385343725
+Span Start Loss: 3.221157978280024
+Span End Loss: 3.0976178663481364
+Type Loss: 0.5412804177113046
+ ------------ Epoch 1/10 Batch 11050/11616 Training Results ------------ 
+Total Loss: 6.850075363667842
+Span Start Loss: 3.216377337415833
+Span End Loss: 3.093147713822477
+Type Loss: 0.540550189667984
+ ------------ Epoch 1/10 Batch 11100/11616 Training Results ------------ 
+Total Loss: 6.839587231906685
+Span Start Loss: 3.211728798607448
+Span End Loss: 3.08807855671859
+Type Loss: 0.5397797539703515
+ ------------ Epoch 1/10 Batch 11150/11616 Training Results ------------ 
+Total Loss: 6.8317998979391
+Span Start Loss: 3.2083758188897717
+Span End Loss: 3.0843281315607873
+Type Loss: 0.5390958247649495
+ ------------ Epoch 1/10 Batch 11200/11616 Training Results ------------ 
+Total Loss: 6.821735918242484
+Span Start Loss: 3.203933581188321
+Span End Loss: 3.0794993650726976
+Type Loss: 0.5383028495253529
+ ------------ Epoch 1/10 Batch 11250/11616 Training Results ------------ 
+Total Loss: 6.812568636947208
+Span Start Loss: 3.199852575879627
+Span End Loss: 3.075425645354059
+Type Loss: 0.5372902936506603
+ ------------ Epoch 1/10 Batch 11300/11616 Training Results ------------ 
+Total Loss: 6.804580697443633
+Span Start Loss: 3.196053946645914
+Span End Loss: 3.0717472560189467
+Type Loss: 0.536779372527025
+ ------------ Epoch 1/10 Batch 11350/11616 Training Results ------------ 
+Total Loss: 6.7952614651377505
+Span Start Loss: 3.1919493187104027
+Span End Loss: 3.067220031351245
+Type Loss: 0.5360919929575585
+ ------------ Epoch 1/10 Batch 11400/11616 Training Results ------------ 
+Total Loss: 6.787314778265723
+Span Start Loss: 3.1886324869697553
+Span End Loss: 3.0632485917419716
+Type Loss: 0.5354335778400204
+ ------------ Epoch 1/10 Batch 11450/11616 Training Results ------------ 
+Total Loss: 6.77771738126028
+Span Start Loss: 3.1843342850978718
+Span End Loss: 3.0586965437747504
+Type Loss: 0.5346864308586841
+ ------------ Epoch 1/10 Batch 11500/11616 Training Results ------------ 
+Total Loss: 6.7680842407501265
+Span Start Loss: 3.1798754726907483
+Span End Loss: 3.0540207395449928
+Type Loss: 0.5341879074182362
+ ------------ Epoch 1/10 Batch 11550/11616 Training Results ------------ 
+Total Loss: 6.759084207838748
+Span Start Loss: 3.1757001711589434
+Span End Loss: 3.0494745411965756
+Type Loss: 0.5339093746315059
+ ------------ Epoch 1/10 Batch 11600/11616 Training Results ------------ 
+Total Loss: 6.749974774196744
+Span Start Loss: 3.1715951486908156
+Span End Loss: 3.0452076100275436
+Type Loss: 0.5331718946751689
+ --------------------- Epoch 1/10 Final Training Results ------------------------ 
+Total Loss: 6.747548165359116
+Span Start Loss: 3.1705796398407173
+Span End Loss: 3.0440370074419443
+Type Loss: 0.5329313973459888
+ --------------- Epoch 1/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 43.0, 'f1': 55.0, 'turns': 1425}), ('literature', {'em': 39.0, 'f1': 49.7, 'turns': 1630}), ('mid-high_school', {'em': 38.8, 'f1': 50.8, 'turns': 1653}), ('news', {'em': 43.9, 'f1': 56.1, 'turns': 1649}), ('wikipedia', {'em': 46.7, 'f1': 59.2, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 42.3, 'f1': 54.1, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 42.3, 'f1': 54.1, 'turns': 7983})])
+ --------------- Epoch 2/10 Training Start --------------- 
+ ------------ Epoch 2/10 Batch 50/11616 Training Results ------------ 
+Total Loss: 4.303843826055527
+Span Start Loss: 1.9974711012840272
+Span End Loss: 1.905353662967682
+Type Loss: 0.401019006408751
+ ------------ Epoch 2/10 Batch 100/11616 Training Results ------------ 
+Total Loss: 4.308241999149322
+Span Start Loss: 1.945483148097992
+Span End Loss: 1.967517426609993
+Type Loss: 0.395241380687803
+ ------------ Epoch 2/10 Batch 150/11616 Training Results ------------ 
+Total Loss: 4.226916722456614
+Span Start Loss: 1.923943894704183
+Span End Loss: 1.9025023076931635
+Type Loss: 0.40047046730915703
+ ------------ Epoch 2/10 Batch 200/11616 Training Results ------------ 
+Total Loss: 4.212678149342537
+Span Start Loss: 1.9326301994919777
+Span End Loss: 1.8921258449554443
+Type Loss: 0.38792205868288876
+ ------------ Epoch 2/10 Batch 250/11616 Training Results ------------ 
+Total Loss: 4.1594088977575305
+Span Start Loss: 1.9201021945476533
+Span End Loss: 1.8567958068847656
+Type Loss: 0.3825108458325267
+ ------------ Epoch 2/10 Batch 300/11616 Training Results ------------ 
+Total Loss: 4.204355299472809
+Span Start Loss: 1.9500232222676277
+Span End Loss: 1.8761182787021
+Type Loss: 0.3782137366570532
+ ------------ Epoch 2/10 Batch 350/11616 Training Results ------------ 
+Total Loss: 4.195400218452726
+Span Start Loss: 1.9484543253694262
+Span End Loss: 1.8692158147266933
+Type Loss: 0.37773001229656594
+ ------------ Epoch 2/10 Batch 400/11616 Training Results ------------ 
+Total Loss: 4.196799867227673
+Span Start Loss: 1.960197694003582
+Span End Loss: 1.8589957942068578
+Type Loss: 0.3776063117897138
+ ------------ Epoch 2/10 Batch 450/11616 Training Results ------------ 
+Total Loss: 4.190920727782779
+Span Start Loss: 1.9594429980383978
+Span End Loss: 1.850419712861379
+Type Loss: 0.38105795052730373
+ ------------ Epoch 2/10 Batch 500/11616 Training Results ------------ 
+Total Loss: 4.186424690932036
+Span Start Loss: 1.9650936237573624
+Span End Loss: 1.8363905230164528
+Type Loss: 0.38494047792628405
+ ------------ Epoch 2/10 Batch 550/11616 Training Results ------------ 
+Total Loss: 4.162099921567873
+Span Start Loss: 1.9546306306665593
+Span End Loss: 1.8240641287781976
+Type Loss: 0.3834050907770341
+ ------------ Epoch 2/10 Batch 600/11616 Training Results ------------ 
+Total Loss: 4.182377220814427
+Span Start Loss: 1.9649142157038053
+Span End Loss: 1.8359555527567863
+Type Loss: 0.38150738208554685
+ ------------ Epoch 2/10 Batch 650/11616 Training Results ------------ 
+Total Loss: 4.179413448618009
+Span Start Loss: 1.9564927109617454
+Span End Loss: 1.839561571753942
+Type Loss: 0.3833590950902838
+ ------------ Epoch 2/10 Batch 700/11616 Training Results ------------ 
+Total Loss: 4.18356530336397
+Span Start Loss: 1.9650971392435688
+Span End Loss: 1.834244405244078
+Type Loss: 0.38422369031235576
+ ------------ Epoch 2/10 Batch 750/11616 Training Results ------------ 
+Total Loss: 4.192325132787228
+Span Start Loss: 1.968568160156409
+Span End Loss: 1.8394614505767821
+Type Loss: 0.3842954557165503
+ ------------ Epoch 2/10 Batch 800/11616 Training Results ------------ 
+Total Loss: 4.184063637536019
+Span Start Loss: 1.9672066687978804
+Span End Loss: 1.8347580052912236
+Type Loss: 0.38209889757679777
+ ------------ Epoch 2/10 Batch 850/11616 Training Results ------------ 
+Total Loss: 4.172444706015727
+Span Start Loss: 1.9627050667124637
+Span End Loss: 1.8277024183203192
+Type Loss: 0.38203715480206646
+ ------------ Epoch 2/10 Batch 900/11616 Training Results ------------ 
+Total Loss: 4.168578935414553
+Span Start Loss: 1.963807776388195
+Span End Loss: 1.8220646422108013
+Type Loss: 0.38270645091310146
+ ------------ Epoch 2/10 Batch 950/11616 Training Results ------------ 
+Total Loss: 4.184204214576043
+Span Start Loss: 1.9721263285216533
+Span End Loss: 1.827796512685324
+Type Loss: 0.384281308684302
+ ------------ Epoch 2/10 Batch 1000/11616 Training Results ------------ 
+Total Loss: 4.1809128460288045
+Span Start Loss: 1.9680829510241746
+Span End Loss: 1.8267109690904617
+Type Loss: 0.38611885747499763
+ ------------ Epoch 2/10 Batch 1050/11616 Training Results ------------ 
+Total Loss: 4.200749095564797
+Span Start Loss: 1.9794806280164492
+Span End Loss: 1.8358478539330618
+Type Loss: 0.3854205459019258
+ ------------ Epoch 2/10 Batch 1100/11616 Training Results ------------ 
+Total Loss: 4.198579257591204
+Span Start Loss: 1.976525685258887
+Span End Loss: 1.8345622185143557
+Type Loss: 0.3874912846782668
+ ------------ Epoch 2/10 Batch 1150/11616 Training Results ------------ 
+Total Loss: 4.203460768513057
+Span Start Loss: 1.9796448556366175
+Span End Loss: 1.8355244221894638
+Type Loss: 0.3882914194740031
+ ------------ Epoch 2/10 Batch 1200/11616 Training Results ------------ 
+Total Loss: 4.213706461340189
+Span Start Loss: 1.9829136130337914
+Span End Loss: 1.840831652233998
+Type Loss: 0.3899611247098073
+ ------------ Epoch 2/10 Batch 1250/11616 Training Results ------------ 
+Total Loss: 4.220048965096474
+Span Start Loss: 1.9837382432341575
+Span End Loss: 1.8439102640628815
+Type Loss: 0.3924003847196698
+ ------------ Epoch 2/10 Batch 1300/11616 Training Results ------------ 
+Total Loss: 4.218468965475376
+Span Start Loss: 1.985328888560717
+Span End Loss: 1.841558272425945
+Type Loss: 0.3915817323456017
+ ------------ Epoch 2/10 Batch 1350/11616 Training Results ------------ 
+Total Loss: 4.222825247711605
+Span Start Loss: 1.9869860606612983
+Span End Loss: 1.8457820292313893
+Type Loss: 0.3900570844789898
+ ------------ Epoch 2/10 Batch 1400/11616 Training Results ------------ 
+Total Loss: 4.221834360169513
+Span Start Loss: 1.987148041714515
+Span End Loss: 1.8450524566003255
+Type Loss: 0.38963378853696795
+ ------------ Epoch 2/10 Batch 1450/11616 Training Results ------------ 
+Total Loss: 4.2253965526305395
+Span Start Loss: 1.9827568179882806
+Span End Loss: 1.8506506837647536
+Type Loss: 0.39198897520401355
+ ------------ Epoch 2/10 Batch 1500/11616 Training Results ------------ 
+Total Loss: 4.21608983779947
+Span Start Loss: 1.9832508113284906
+Span End Loss: 1.841869656085968
+Type Loss: 0.39096929458156227
+ ------------ Epoch 2/10 Batch 1550/11616 Training Results ------------ 
+Total Loss: 4.215921342132553
+Span Start Loss: 1.9836930439837517
+Span End Loss: 1.8402392484295753
+Type Loss: 0.39198897313326597
+ ------------ Epoch 2/10 Batch 1600/11616 Training Results ------------ 
+Total Loss: 4.214342711819336
+Span Start Loss: 1.9821251144912093
+Span End Loss: 1.8398510190844535
+Type Loss: 0.39236650097765957
+ ------------ Epoch 2/10 Batch 1650/11616 Training Results ------------ 
+Total Loss: 4.223707052207354
+Span Start Loss: 1.9867251320589672
+Span End Loss: 1.8444584350513689
+Type Loss: 0.3925234066503066
+ ------------ Epoch 2/10 Batch 1700/11616 Training Results ------------ 
+Total Loss: 4.228738624251941
+Span Start Loss: 1.9871039933229193
+Span End Loss: 1.8488435712982627
+Type Loss: 0.39279098117943195
+ ------------ Epoch 2/10 Batch 1750/11616 Training Results ------------ 
+Total Loss: 4.221661411864417
+Span Start Loss: 1.984231475191457
+Span End Loss: 1.845625605234078
+Type Loss: 0.3918042534195951
+ ------------ Epoch 2/10 Batch 1800/11616 Training Results ------------ 
+Total Loss: 4.2243369104133714
+Span Start Loss: 1.9870230779134566
+Span End Loss: 1.8447444314344061
+Type Loss: 0.39256932428520586
+ ------------ Epoch 2/10 Batch 1850/11616 Training Results ------------ 
+Total Loss: 4.233261350844358
+Span Start Loss: 1.9924862870735092
+Span End Loss: 1.848386671019567
+Type Loss: 0.3923883143117702
+ ------------ Epoch 2/10 Batch 1900/11616 Training Results ------------ 
+Total Loss: 4.234804042860081
+Span Start Loss: 1.9915347174358995
+Span End Loss: 1.850341530026574
+Type Loss: 0.3929277170194607
+ ------------ Epoch 2/10 Batch 1950/11616 Training Results ------------ 
+Total Loss: 4.225431060256102
+Span Start Loss: 1.986699755596809
+Span End Loss: 1.8468256938686738
+Type Loss: 0.39190553210771234
+ ------------ Epoch 2/10 Batch 2000/11616 Training Results ------------ 
+Total Loss: 4.220256581157446
+Span Start Loss: 1.9831196100190283
+Span End Loss: 1.8446630762591958
+Type Loss: 0.3924738171985373
+ --------------- Epoch 2/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 51.6, 'f1': 62.9, 'turns': 1425}), ('literature', {'em': 46.5, 'f1': 56.5, 'turns': 1630}), ('mid-high_school', {'em': 49.5, 'f1': 59.9, 'turns': 1653}), ('news', {'em': 52.4, 'f1': 63.1, 'turns': 1649}), ('wikipedia', {'em': 55.9, 'f1': 66.2, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 51.2, 'f1': 61.7, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 51.2, 'f1': 61.7, 'turns': 7983})])
+ ------------ Epoch 2/10 Batch 2050/11616 Training Results ------------ 
+Total Loss: 4.221743844413176
+Span Start Loss: 1.983940539643532
+Span End Loss: 1.8451550655176
+Type Loss: 0.3926481610236735
+ ------------ Epoch 2/10 Batch 2100/11616 Training Results ------------ 
+Total Loss: 4.218553686461278
+Span Start Loss: 1.9832164343411014
+Span End Loss: 1.8434347694473607
+Type Loss: 0.39190240446921615
+ ------------ Epoch 2/10 Batch 2150/11616 Training Results ------------ 
+Total Loss: 4.219758646606013
+Span Start Loss: 1.9843792791075485
+Span End Loss: 1.8430238606971363
+Type Loss: 0.39235542809460744
+ ------------ Epoch 2/10 Batch 2200/11616 Training Results ------------ 
+Total Loss: 4.218773489140651
+Span Start Loss: 1.983004201508381
+Span End Loss: 1.8433221787417478
+Type Loss: 0.39244703055359426
+ ------------ Epoch 2/10 Batch 2250/11616 Training Results ------------ 
+Total Loss: 4.224025845163398
+Span Start Loss: 1.9852237004902629
+Span End Loss: 1.8452467166251607
+Type Loss: 0.39355534826301863
+ ------------ Epoch 2/10 Batch 2300/11616 Training Results ------------ 
+Total Loss: 4.2267375025736245
+Span Start Loss: 1.9875622477933117
+Span End Loss: 1.8449423610321853
+Type Loss: 0.3942328148310923
+ ------------ Epoch 2/10 Batch 2350/11616 Training Results ------------ 
+Total Loss: 4.220164843093841
+Span Start Loss: 1.9839396951743897
+Span End Loss: 1.8408458787773518
+Type Loss: 0.3953791901033292
+ ------------ Epoch 2/10 Batch 2400/11616 Training Results ------------ 
+Total Loss: 4.220659892012676
+Span Start Loss: 1.9838636700001855
+Span End Loss: 1.8417432897351682
+Type Loss: 0.39505285387470696
+ ------------ Epoch 2/10 Batch 2450/11616 Training Results ------------ 
+Total Loss: 4.220859199701524
+Span Start Loss: 1.9842324199907633
+Span End Loss: 1.8412305040566288
+Type Loss: 0.3953961989032675
+ ------------ Epoch 2/10 Batch 2500/11616 Training Results ------------ 
+Total Loss: 4.214281336665153
+Span Start Loss: 1.98191476816535
+Span End Loss: 1.8373786468327045
+Type Loss: 0.39498784475550053
+ ------------ Epoch 2/10 Batch 2550/11616 Training Results ------------ 
+Total Loss: 4.219689052537376
+Span Start Loss: 1.983394294994719
+Span End Loss: 1.8408562160414808
+Type Loss: 0.395438464308048
+ ------------ Epoch 2/10 Batch 2600/11616 Training Results ------------ 
+Total Loss: 4.2264733857833425
+Span Start Loss: 1.986377030742856
+Span End Loss: 1.8449734263408644
+Type Loss: 0.39512285090911275
+ ------------ Epoch 2/10 Batch 2650/11616 Training Results ------------ 
+Total Loss: 4.231068753408936
+Span Start Loss: 1.9883818347892672
+Span End Loss: 1.847795161228135
+Type Loss: 0.3948916786339767
+ ------------ Epoch 2/10 Batch 2700/11616 Training Results ------------ 
+Total Loss: 4.2320051337833755
+Span Start Loss: 1.9894252384978313
+Span End Loss: 1.848153063715608
+Type Loss: 0.39442675322087273
+ ------------ Epoch 2/10 Batch 2750/11616 Training Results ------------ 
+Total Loss: 4.236185857274315
+Span Start Loss: 1.9915119114951654
+Span End Loss: 1.8503506979671391
+Type Loss: 0.3943231701505455
+ ------------ Epoch 2/10 Batch 2800/11616 Training Results ------------ 
+Total Loss: 4.232593756594828
+Span Start Loss: 1.9900736370416625
+Span End Loss: 1.8490841320955327
+Type Loss: 0.39343591055633237
+ ------------ Epoch 2/10 Batch 2850/11616 Training Results ------------ 
+Total Loss: 4.235994853942018
+Span Start Loss: 1.9927793079248646
+Span End Loss: 1.8501183224299498
+Type Loss: 0.39309714662335943
+ ------------ Epoch 2/10 Batch 2900/11616 Training Results ------------ 
+Total Loss: 4.238587916822269
+Span Start Loss: 1.9932111373800656
+Span End Loss: 1.8521227588273328
+Type Loss: 0.3932539435829325
+ ------------ Epoch 2/10 Batch 2950/11616 Training Results ------------ 
+Total Loss: 4.232653504483781
+Span Start Loss: 1.9904888839287274
+Span End Loss: 1.849200303074667
+Type Loss: 0.3929642402942655
+ ------------ Epoch 2/10 Batch 3000/11616 Training Results ------------ 
+Total Loss: 4.2347499812891085
+Span Start Loss: 1.9917485922028622
+Span End Loss: 1.8504134373515844
+Type Loss: 0.3925878740369032
+ ------------ Epoch 2/10 Batch 3050/11616 Training Results ------------ 
+Total Loss: 4.233219660134589
+Span Start Loss: 1.9914935609796007
+Span End Loss: 1.8490309521849038
+Type Loss: 0.39269506941747956
+ ------------ Epoch 2/10 Batch 3100/11616 Training Results ------------ 
+Total Loss: 4.235074767446326
+Span Start Loss: 1.9917981877490398
+Span End Loss: 1.8512269573490465
+Type Loss: 0.3920495451506107
+ ------------ Epoch 2/10 Batch 3150/11616 Training Results ------------ 
+Total Loss: 4.233939930110696
+Span Start Loss: 1.9899355298990296
+Span End Loss: 1.8522436824724788
+Type Loss: 0.3917606411022799
+ ------------ Epoch 2/10 Batch 3200/11616 Training Results ------------ 
+Total Loss: 4.228820355911739
+Span Start Loss: 1.988020081766881
+Span End Loss: 1.848214040719904
+Type Loss: 0.39258615737198854
+ ------------ Epoch 2/10 Batch 3250/11616 Training Results ------------ 
+Total Loss: 4.227501383355031
+Span Start Loss: 1.9881986491817694
+Span End Loss: 1.8468255444719242
+Type Loss: 0.39247711387162026
+ ------------ Epoch 2/10 Batch 3300/11616 Training Results ------------ 
+Total Loss: 4.225911535977414
+Span Start Loss: 1.9873190377472025
+Span End Loss: 1.8461184198973757
+Type Loss: 0.3924740030966473
+ ------------ Epoch 2/10 Batch 3350/11616 Training Results ------------ 
+Total Loss: 4.221259851798193
+Span Start Loss: 1.985816445684255
+Span End Loss: 1.8434773499974564
+Type Loss: 0.39196598111137526
+ ------------ Epoch 2/10 Batch 3400/11616 Training Results ------------ 
+Total Loss: 4.222107148499173
+Span Start Loss: 1.9867284649040768
+Span End Loss: 1.8431922713842461
+Type Loss: 0.39218633745632625
+ ------------ Epoch 2/10 Batch 3450/11616 Training Results ------------ 
+Total Loss: 4.217802160611187
+Span Start Loss: 1.984886859426464
+Span End Loss: 1.8410936508360116
+Type Loss: 0.39182157617980157
+ ------------ Epoch 2/10 Batch 3500/11616 Training Results ------------ 
+Total Loss: 4.2165378771722315
+Span Start Loss: 1.9847730071161473
+Span End Loss: 1.8392780332182135
+Type Loss: 0.39248676264924665
+ ------------ Epoch 2/10 Batch 3550/11616 Training Results ------------ 
+Total Loss: 4.2149101763753825
+Span Start Loss: 1.9847637398268136
+Span End Loss: 1.838042197794142
+Type Loss: 0.3921041644427558
+ ------------ Epoch 2/10 Batch 3600/11616 Training Results ------------ 
+Total Loss: 4.214042705069813
+Span Start Loss: 1.9850823294909463
+Span End Loss: 1.8379939857746164
+Type Loss: 0.3909663159441617
+ ------------ Epoch 2/10 Batch 3650/11616 Training Results ------------ 
+Total Loss: 4.215839461839362
+Span Start Loss: 1.9864152000252515
+Span End Loss: 1.8387933729976824
+Type Loss: 0.3906308153562554
+ ------------ Epoch 2/10 Batch 3700/11616 Training Results ------------ 
+Total Loss: 4.214933667674258
+Span Start Loss: 1.986219633692825
+Span End Loss: 1.8379712491865094
+Type Loss: 0.39074271142080025
+ ------------ Epoch 2/10 Batch 3750/11616 Training Results ------------ 
+Total Loss: 4.214995369036992
+Span Start Loss: 1.9859148782610894
+Span End Loss: 1.8382726450721423
+Type Loss: 0.3908077723989884
+ ------------ Epoch 2/10 Batch 3800/11616 Training Results ------------ 
+Total Loss: 4.216609401647982
+Span Start Loss: 1.9872533623599693
+Span End Loss: 1.8393085974415666
+Type Loss: 0.39004736828715786
+ ------------ Epoch 2/10 Batch 3850/11616 Training Results ------------ 
+Total Loss: 4.216396467639254
+Span Start Loss: 1.9872838750559014
+Span End Loss: 1.839004759831088
+Type Loss: 0.39010775951160626
+ ------------ Epoch 2/10 Batch 3900/11616 Training Results ------------ 
+Total Loss: 4.214474409589401
+Span Start Loss: 1.9874747850459356
+Span End Loss: 1.8370778900117446
+Type Loss: 0.38992166136940704
+ ------------ Epoch 2/10 Batch 3950/11616 Training Results ------------ 
+Total Loss: 4.213303578578973
+Span Start Loss: 1.9860617205425153
+Span End Loss: 1.8372652447864979
+Type Loss: 0.38997654029415757
+ ------------ Epoch 2/10 Batch 4000/11616 Training Results ------------ 
+Total Loss: 4.2149955479055645
+Span Start Loss: 1.9865480302236975
+Span End Loss: 1.8384476843513549
+Type Loss: 0.38999976038746537
+ --------------- Epoch 2/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 51.5, 'f1': 63.4, 'turns': 1425}), ('literature', {'em': 46.8, 'f1': 57.6, 'turns': 1630}), ('mid-high_school', {'em': 48.0, 'f1': 59.8, 'turns': 1653}), ('news', {'em': 52.0, 'f1': 63.7, 'turns': 1649}), ('wikipedia', {'em': 54.3, 'f1': 66.2, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 50.5, 'f1': 62.1, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 50.5, 'f1': 62.1, 'turns': 7983})])
+ ------------ Epoch 2/10 Batch 4050/11616 Training Results ------------ 
+Total Loss: 4.214458227783074
+Span Start Loss: 1.9863251146894914
+Span End Loss: 1.8385762431481738
+Type Loss: 0.3895567970281398
+ ------------ Epoch 2/10 Batch 4100/11616 Training Results ------------ 
+Total Loss: 4.2125121740669735
+Span Start Loss: 1.9847995795236855
+Span End Loss: 1.8392687119979685
+Type Loss: 0.3884438099148797
+ ------------ Epoch 2/10 Batch 4150/11616 Training Results ------------ 
+Total Loss: 4.208069591529398
+Span Start Loss: 1.9829538794131165
+Span End Loss: 1.8363911308832916
+Type Loss: 0.38872450879920856
+ ------------ Epoch 2/10 Batch 4200/11616 Training Results ------------ 
+Total Loss: 4.201970053818964
+Span Start Loss: 1.9803486928734042
+Span End Loss: 1.8327733754366635
+Type Loss: 0.3888479130114207
+ ------------ Epoch 2/10 Batch 4250/11616 Training Results ------------ 
+Total Loss: 4.2041357338428496
+Span Start Loss: 1.9809711712072877
+Span End Loss: 1.8346341681585592
+Type Loss: 0.3885303212770206
+ ------------ Epoch 2/10 Batch 4300/11616 Training Results ------------ 
+Total Loss: 4.204890568727671
+Span Start Loss: 1.9815956496048805
+Span End Loss: 1.8345493485310742
+Type Loss: 0.3887454970668308
+ ------------ Epoch 2/10 Batch 4350/11616 Training Results ------------ 
+Total Loss: 4.204326929819995
+Span Start Loss: 1.9812728024727997
+Span End Loss: 1.8338753359584974
+Type Loss: 0.389178717506557
+ ------------ Epoch 2/10 Batch 4400/11616 Training Results ------------ 
+Total Loss: 4.20885869606652
+Span Start Loss: 1.9839496240798722
+Span End Loss: 1.8357518725605173
+Type Loss: 0.3891571257824332
+ ------------ Epoch 2/10 Batch 4450/11616 Training Results ------------ 
+Total Loss: 4.2096831578886915
+Span Start Loss: 1.9843792506382707
+Span End Loss: 1.8360072686799456
+Type Loss: 0.38929656526952816
+ ------------ Epoch 2/10 Batch 4500/11616 Training Results ------------ 
+Total Loss: 4.211210129890177
+Span Start Loss: 1.9857675380143853
+Span End Loss: 1.8360867816574045
+Type Loss: 0.3893557365977516
+ ------------ Epoch 2/10 Batch 4550/11616 Training Results ------------ 
+Total Loss: 4.213254496094945
+Span Start Loss: 1.9874112306682619
+Span End Loss: 1.8366699371134843
+Type Loss: 0.389173254808718
+ ------------ Epoch 2/10 Batch 4600/11616 Training Results ------------ 
+Total Loss: 4.2149045509488685
+Span Start Loss: 1.9879695571861837
+Span End Loss: 1.8378083398711422
+Type Loss: 0.38912658049927457
+ ------------ Epoch 2/10 Batch 4650/11616 Training Results ------------ 
+Total Loss: 4.215943296333795
+Span Start Loss: 1.988799053824717
+Span End Loss: 1.838111552490342
+Type Loss: 0.38903261627801644
+ ------------ Epoch 2/10 Batch 4700/11616 Training Results ------------ 
+Total Loss: 4.2139656298021055
+Span Start Loss: 1.9879533061163221
+Span End Loss: 1.8380505781763412
+Type Loss: 0.3879616713329674
+ ------------ Epoch 2/10 Batch 4750/11616 Training Results ------------ 
+Total Loss: 4.218103447807462
+Span Start Loss: 1.9899982444455748
+Span End Loss: 1.839961500654095
+Type Loss: 0.3881436292333038
+ ------------ Epoch 2/10 Batch 4800/11616 Training Results ------------ 
+Total Loss: 4.217615779427191
+Span Start Loss: 1.989941445561126
+Span End Loss: 1.8396578484866768
+Type Loss: 0.38801641162872935
+ ------------ Epoch 2/10 Batch 4850/11616 Training Results ------------ 
+Total Loss: 4.2154468321615886
+Span Start Loss: 1.988601604438934
+Span End Loss: 1.8388064196767266
+Type Loss: 0.388038734003287
+ ------------ Epoch 2/10 Batch 4900/11616 Training Results ------------ 
+Total Loss: 4.2144421698183425
+Span Start Loss: 1.9875181589412445
+Span End Loss: 1.8390598616034401
+Type Loss: 0.38786407526734534
+ ------------ Epoch 2/10 Batch 4950/11616 Training Results ------------ 
+Total Loss: 4.214150568421441
+Span Start Loss: 1.9878775690631434
+Span End Loss: 1.838443392825247
+Type Loss: 0.3878295323199997
+ ------------ Epoch 2/10 Batch 5000/11616 Training Results ------------ 
+Total Loss: 4.213515840798617
+Span Start Loss: 1.9870597369998693
+Span End Loss: 1.8388203562110663
+Type Loss: 0.38763567347489297
+ ------------ Epoch 2/10 Batch 5050/11616 Training Results ------------ 
+Total Loss: 4.2106860301282145
+Span Start Loss: 1.9855428963338975
+Span End Loss: 1.8377882493929107
+Type Loss: 0.3873548106845505
+ ------------ Epoch 2/10 Batch 5100/11616 Training Results ------------ 
+Total Loss: 4.208850057773731
+Span Start Loss: 1.9847641532415268
+Span End Loss: 1.8365745474398136
+Type Loss: 0.3875112832089265
+ ------------ Epoch 2/10 Batch 5150/11616 Training Results ------------ 
+Total Loss: 4.207259302116134
+Span Start Loss: 1.9841180021641325
+Span End Loss: 1.8361057035697317
+Type Loss: 0.3870355228815698
+ ------------ Epoch 2/10 Batch 5200/11616 Training Results ------------ 
+Total Loss: 4.2061153593831335
+Span Start Loss: 1.984106333356064
+Span End Loss: 1.8350824900687888
+Type Loss: 0.3869264628763239
+ ------------ Epoch 2/10 Batch 5250/11616 Training Results ------------ 
+Total Loss: 4.207642783863204
+Span Start Loss: 1.9841195824117888
+Span End Loss: 1.836670169719628
+Type Loss: 0.38685295867458697
+ ------------ Epoch 2/10 Batch 5300/11616 Training Results ------------ 
+Total Loss: 4.206093803863481
+Span Start Loss: 1.9832089137103197
+Span End Loss: 1.836074456923975
+Type Loss: 0.38681035978157285
+ ------------ Epoch 2/10 Batch 5350/11616 Training Results ------------ 
+Total Loss: 4.204607274487754
+Span Start Loss: 1.9824553014491206
+Span End Loss: 1.8356427334764294
+Type Loss: 0.38650916595290474
+ ------------ Epoch 2/10 Batch 5400/11616 Training Results ------------ 
+Total Loss: 4.205365361797589
+Span Start Loss: 1.9827910412213317
+Span End Loss: 1.8357312204743976
+Type Loss: 0.3868430265622145
+ ------------ Epoch 2/10 Batch 5450/11616 Training Results ------------ 
+Total Loss: 4.20498103472071
+Span Start Loss: 1.9821432574271063
+Span End Loss: 1.8359639196193547
+Type Loss: 0.3868737844798133
+ ------------ Epoch 2/10 Batch 5500/11616 Training Results ------------ 
+Total Loss: 4.2018342749638995
+Span Start Loss: 1.980343794635751
+Span End Loss: 1.8346783499907364
+Type Loss: 0.38681205685809256
+ ------------ Epoch 2/10 Batch 5550/11616 Training Results ------------ 
+Total Loss: 4.199253561502104
+Span Start Loss: 1.97926325600158
+Span End Loss: 1.8334449855889285
+Type Loss: 0.38654524667473794
+ ------------ Epoch 2/10 Batch 5600/11616 Training Results ------------ 
+Total Loss: 4.194772150154624
+Span Start Loss: 1.9772678632581873
+Span End Loss: 1.8314945122892303
+Type Loss: 0.38600970170759996
+ ------------ Epoch 2/10 Batch 5650/11616 Training Results ------------ 
+Total Loss: 4.197560702277496
+Span Start Loss: 1.9793142240210972
+Span End Loss: 1.8323224545448227
+Type Loss: 0.385923950652699
+ ------------ Epoch 2/10 Batch 5700/11616 Training Results ------------ 
+Total Loss: 4.197019579248471
+Span Start Loss: 1.9787246252544093
+Span End Loss: 1.8324968232685013
+Type Loss: 0.38579805747491486
+ ------------ Epoch 2/10 Batch 5750/11616 Training Results ------------ 
+Total Loss: 4.196692243451658
+Span Start Loss: 1.9782532939263011
+Span End Loss: 1.8324855726102125
+Type Loss: 0.38595330368986597
+ ------------ Epoch 2/10 Batch 5800/11616 Training Results ------------ 
+Total Loss: 4.199698407793867
+Span Start Loss: 1.9803051066270163
+Span End Loss: 1.8335443145165156
+Type Loss: 0.3858489131644882
+ ------------ Epoch 2/10 Batch 5850/11616 Training Results ------------ 
+Total Loss: 4.199867730619561
+Span Start Loss: 1.980195857049563
+Span End Loss: 1.8340566172075068
+Type Loss: 0.3856151828602848
+ ------------ Epoch 2/10 Batch 5900/11616 Training Results ------------ 
+Total Loss: 4.201150696888819
+Span Start Loss: 1.9798347374923149
+Span End Loss: 1.8351274945397498
+Type Loss: 0.38618839116482917
+ ------------ Epoch 2/10 Batch 5950/11616 Training Results ------------ 
+Total Loss: 4.201616301982343
+Span Start Loss: 1.9798405984444778
+Span End Loss: 1.8358690096074795
+Type Loss: 0.3859066203355539
+ ------------ Epoch 2/10 Batch 6000/11616 Training Results ------------ 
+Total Loss: 4.204080636327466
+Span Start Loss: 1.9809230345860123
+Span End Loss: 1.83747442454348
+Type Loss: 0.3856831035260111
+ --------------- Epoch 2/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 54.6, 'f1': 65.9, 'turns': 1425}), ('literature', {'em': 48.9, 'f1': 59.0, 'turns': 1630}), ('mid-high_school', {'em': 50.8, 'f1': 61.0, 'turns': 1653}), ('news', {'em': 52.8, 'f1': 64.1, 'turns': 1649}), ('wikipedia', {'em': 56.4, 'f1': 67.5, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 52.7, 'f1': 63.4, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 52.7, 'f1': 63.4, 'turns': 7983})])
+ ------------ Epoch 2/10 Batch 6050/11616 Training Results ------------ 
+Total Loss: 4.203281124785912
+Span Start Loss: 1.9809415157939776
+Span End Loss: 1.8372316176117944
+Type Loss: 0.3851079176495637
+ ------------ Epoch 2/10 Batch 6100/11616 Training Results ------------ 
+Total Loss: 4.204696953150092
+Span Start Loss: 1.98123944021395
+Span End Loss: 1.8384830361189413
+Type Loss: 0.384974403359973
+ ------------ Epoch 2/10 Batch 6150/11616 Training Results ------------ 
+Total Loss: 4.205517447503602
+Span Start Loss: 1.9818672115701002
+Span End Loss: 1.838566419135749
+Type Loss: 0.3850837432526476
+ ------------ Epoch 2/10 Batch 6200/11616 Training Results ------------ 
+Total Loss: 4.204362727629562
+Span Start Loss: 1.9806864269101812
+Span End Loss: 1.8382101437521559
+Type Loss: 0.38546608340986555
+ ------------ Epoch 2/10 Batch 6250/11616 Training Results ------------ 
+Total Loss: 4.201782242584229
+Span Start Loss: 1.9796355608439447
+Span End Loss: 1.8372252380633354
+Type Loss: 0.3849213703456521
+ ------------ Epoch 2/10 Batch 6300/11616 Training Results ------------ 
+Total Loss: 4.203372602543188
+Span Start Loss: 1.9800194898176762
+Span End Loss: 1.8382796369445702
+Type Loss: 0.3850734026319096
+ ------------ Epoch 2/10 Batch 6350/11616 Training Results ------------ 
+Total Loss: 4.2018448942524245
+Span Start Loss: 1.9789759732395644
+Span End Loss: 1.837711613082041
+Type Loss: 0.3851572346883848
+ ------------ Epoch 2/10 Batch 6400/11616 Training Results ------------ 
+Total Loss: 4.199979970324785
+Span Start Loss: 1.9783144522435032
+Span End Loss: 1.8364043242740444
+Type Loss: 0.3852611207900918
+ ------------ Epoch 2/10 Batch 6450/11616 Training Results ------------ 
+Total Loss: 4.203920937577883
+Span Start Loss: 1.9798128630278646
+Span End Loss: 1.839045383890932
+Type Loss: 0.38506261753972415
+ ------------ Epoch 2/10 Batch 6500/11616 Training Results ------------ 
+Total Loss: 4.203879737464281
+Span Start Loss: 1.9794761960621063
+Span End Loss: 1.8393695354071948
+Type Loss: 0.3850339328804268
+ ------------ Epoch 2/10 Batch 6550/11616 Training Results ------------ 
+Total Loss: 4.2046852235803165
+Span Start Loss: 1.9799137353919845
+Span End Loss: 1.8399439763818077
+Type Loss: 0.3848274389554867
+ ------------ Epoch 2/10 Batch 6600/11616 Training Results ------------ 
+Total Loss: 4.203678690055103
+Span Start Loss: 1.9796406853673132
+Span End Loss: 1.8391379941164545
+Type Loss: 0.38489993769647274
+ ------------ Epoch 2/10 Batch 6650/11616 Training Results ------------ 
+Total Loss: 4.200205524949203
+Span Start Loss: 1.9784451575543647
+Span End Loss: 1.8375493214654743
+Type Loss: 0.38421097306464624
+ ------------ Epoch 2/10 Batch 6700/11616 Training Results ------------ 
+Total Loss: 4.199388269312791
+Span Start Loss: 1.9786099202530598
+Span End Loss: 1.8368571271847434
+Type Loss: 0.3839211489182355
+ ------------ Epoch 2/10 Batch 6750/11616 Training Results ------------ 
+Total Loss: 4.200030561917358
+Span Start Loss: 1.9784103964986623
+Span End Loss: 1.8372433735242597
+Type Loss: 0.3843767187534659
+ ------------ Epoch 2/10 Batch 6800/11616 Training Results ------------ 
+Total Loss: 4.198970801153165
+Span Start Loss: 1.9779279904878315
+Span End Loss: 1.8363726853601197
+Type Loss: 0.3846700522078968
+ ------------ Epoch 2/10 Batch 6850/11616 Training Results ------------ 
+Total Loss: 4.196727665301657
+Span Start Loss: 1.9772136328320433
+Span End Loss: 1.8353944389032621
+Type Loss: 0.38411952013027495
+ ------------ Epoch 2/10 Batch 6900/11616 Training Results ------------ 
+Total Loss: 4.1995892656022225
+Span Start Loss: 1.9779037201814893
+Span End Loss: 1.8371279246543628
+Type Loss: 0.38455754740622594
+ ------------ Epoch 2/10 Batch 6950/11616 Training Results ------------ 
+Total Loss: 4.199399642238943
+Span Start Loss: 1.9777653168238325
+Span End Loss: 1.837096388689477
+Type Loss: 0.3845378635630762
+ ------------ Epoch 2/10 Batch 7000/11616 Training Results ------------ 
+Total Loss: 4.196874663542424
+Span Start Loss: 1.9762377429242646
+Span End Loss: 1.836108216249517
+Type Loss: 0.3845286312087306
+ ------------ Epoch 2/10 Batch 7050/11616 Training Results ------------ 
+Total Loss: 4.196717597882376
+Span Start Loss: 1.975727372437927
+Span End Loss: 1.8364456631972434
+Type Loss: 0.3845444891292681
+ ------------ Epoch 2/10 Batch 7100/11616 Training Results ------------ 
+Total Loss: 4.197265345687178
+Span Start Loss: 1.9757213338726842
+Span End Loss: 1.8372253583371638
+Type Loss: 0.38431858022526744
+ ------------ Epoch 2/10 Batch 7150/11616 Training Results ------------ 
+Total Loss: 4.195672356592609
+Span Start Loss: 1.9749939179066178
+Span End Loss: 1.8367144958268513
+Type Loss: 0.3839638696696896
+ ------------ Epoch 2/10 Batch 7200/11616 Training Results ------------ 
+Total Loss: 4.1969468352177906
+Span Start Loss: 1.975758326333016
+Span End Loss: 1.8370228626309997
+Type Loss: 0.3841655727147332
+ ------------ Epoch 2/10 Batch 7250/11616 Training Results ------------ 
+Total Loss: 4.198508950584921
+Span Start Loss: 1.9765430962936632
+Span End Loss: 1.837620229192849
+Type Loss: 0.38434555136001314
+ ------------ Epoch 2/10 Batch 7300/11616 Training Results ------------ 
+Total Loss: 4.195572694207299
+Span Start Loss: 1.975222870860606
+Span End Loss: 1.8363871380298922
+Type Loss: 0.38396261146432425
+ ------------ Epoch 2/10 Batch 7350/11616 Training Results ------------ 
+Total Loss: 4.196045356492202
+Span Start Loss: 1.9752543443948234
+Span End Loss: 1.8369027255080184
+Type Loss: 0.38388821260547457
+ ------------ Epoch 2/10 Batch 7400/11616 Training Results ------------ 
+Total Loss: 4.1949423877673375
+Span Start Loss: 1.974877736091211
+Span End Loss: 1.8361839578502082
+Type Loss: 0.38388061981094446
+ ------------ Epoch 2/10 Batch 7450/11616 Training Results ------------ 
+Total Loss: 4.194875370706088
+Span Start Loss: 1.9746402015161995
+Span End Loss: 1.8365621281010192
+Type Loss: 0.3836729668723357
+ ------------ Epoch 2/10 Batch 7500/11616 Training Results ------------ 
+Total Loss: 4.195857017805179
+Span Start Loss: 1.975441963360707
+Span End Loss: 1.8366808933277925
+Type Loss: 0.38373408695583544
+ ------------ Epoch 2/10 Batch 7550/11616 Training Results ------------ 
+Total Loss: 4.195202531986284
+Span Start Loss: 1.9750422645384902
+Span End Loss: 1.8364534865290123
+Type Loss: 0.38370670681930336
+ ------------ Epoch 2/10 Batch 7600/11616 Training Results ------------ 
+Total Loss: 4.195829710864315
+Span Start Loss: 1.9755553821180212
+Span End Loss: 1.8368183127888724
+Type Loss: 0.38345594209986494
+ ------------ Epoch 2/10 Batch 7650/11616 Training Results ------------ 
+Total Loss: 4.194968804278794
+Span Start Loss: 1.9746657500294298
+Span End Loss: 1.8365603712590692
+Type Loss: 0.38374260914749375
+ ------------ Epoch 2/10 Batch 7700/11616 Training Results ------------ 
+Total Loss: 4.193869467321542
+Span Start Loss: 1.9740138454270828
+Span End Loss: 1.8357386641165654
+Type Loss: 0.38411688406141353
+ ------------ Epoch 2/10 Batch 7750/11616 Training Results ------------ 
+Total Loss: 4.191824774655603
+Span Start Loss: 1.9731453225170412
+Span End Loss: 1.8345893860574691
+Type Loss: 0.38408999255756215
+ ------------ Epoch 2/10 Batch 7800/11616 Training Results ------------ 
+Total Loss: 4.188578476728155
+Span Start Loss: 1.971315218429917
+Span End Loss: 1.8335384944864572
+Type Loss: 0.3837246903316237
+ ------------ Epoch 2/10 Batch 7850/11616 Training Results ------------ 
+Total Loss: 4.186723733849965
+Span Start Loss: 1.9705832269597965
+Span End Loss: 1.8327050148548594
+Type Loss: 0.3834354186539722
+ ------------ Epoch 2/10 Batch 7900/11616 Training Results ------------ 
+Total Loss: 4.187922739831707
+Span Start Loss: 1.971302260592391
+Span End Loss: 1.833001438592431
+Type Loss: 0.3836189671327608
+ ------------ Epoch 2/10 Batch 7950/11616 Training Results ------------ 
+Total Loss: 4.187840221288069
+Span Start Loss: 1.9709409735956283
+Span End Loss: 1.833295228295731
+Type Loss: 0.383603945790831
+ ------------ Epoch 2/10 Batch 8000/11616 Training Results ------------ 
+Total Loss: 4.186780684143304
+Span Start Loss: 1.9707048952970654
+Span End Loss: 1.8325762293506414
+Type Loss: 0.3834994860657025
+ --------------- Epoch 2/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 53.3, 'f1': 64.4, 'turns': 1425}), ('literature', {'em': 50.3, 'f1': 59.9, 'turns': 1630}), ('mid-high_school', {'em': 50.6, 'f1': 61.3, 'turns': 1653}), ('news', {'em': 54.3, 'f1': 65.0, 'turns': 1649}), ('wikipedia', {'em': 58.3, 'f1': 68.4, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 53.4, 'f1': 63.8, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 53.4, 'f1': 63.8, 'turns': 7983})])
+ ------------ Epoch 2/10 Batch 8050/11616 Training Results ------------ 
+Total Loss: 4.187129061821825
+Span Start Loss: 1.971020001330361
+Span End Loss: 1.8329053923561707
+Type Loss: 0.3832035945261025
+ ------------ Epoch 2/10 Batch 8100/11616 Training Results ------------ 
+Total Loss: 4.186520728873618
+Span Start Loss: 1.9709464943427362
+Span End Loss: 1.832556540861174
+Type Loss: 0.3830176200147396
+ ------------ Epoch 2/10 Batch 8150/11616 Training Results ------------ 
+Total Loss: 4.185679720077046
+Span Start Loss: 1.970605370502896
+Span End Loss: 1.8320668852969182
+Type Loss: 0.383007390574535
+ ------------ Epoch 2/10 Batch 8200/11616 Training Results ------------ 
+Total Loss: 4.184128401482978
+Span Start Loss: 1.9699371691902237
+Span End Loss: 1.8313725516109205
+Type Loss: 0.3828186068234102
+ ------------ Epoch 2/10 Batch 8250/11616 Training Results ------------ 
+Total Loss: 4.185748714154417
+Span Start Loss: 1.9708730316252419
+Span End Loss: 1.8317757333318392
+Type Loss: 0.3830998751864289
+ ------------ Epoch 2/10 Batch 8300/11616 Training Results ------------ 
+Total Loss: 4.185260339476258
+Span Start Loss: 1.970363193249487
+Span End Loss: 1.8317984849842917
+Type Loss: 0.3830985875477094
+ ------------ Epoch 2/10 Batch 8350/11616 Training Results ------------ 
+Total Loss: 4.18208325258986
+Span Start Loss: 1.969255328322956
+Span End Loss: 1.8300733363610542
+Type Loss: 0.38275451415937817
+ ------------ Epoch 2/10 Batch 8400/11616 Training Results ------------ 
+Total Loss: 4.180220520691503
+Span Start Loss: 1.9683470894059254
+Span End Loss: 1.8291054169177299
+Type Loss: 0.38276794053170654
+ ------------ Epoch 2/10 Batch 8450/11616 Training Results ------------ 
+Total Loss: 4.182917005458527
+Span Start Loss: 1.96951001696509
+Span End Loss: 1.8306276451959413
+Type Loss: 0.3827792694626828
+ ------------ Epoch 2/10 Batch 8500/11616 Training Results ------------ 
+Total Loss: 4.18270623517387
+Span Start Loss: 1.9697310879633707
+Span End Loss: 1.8302409825307482
+Type Loss: 0.38273409049607376
+ ------------ Epoch 2/10 Batch 8550/11616 Training Results ------------ 
+Total Loss: 4.179868137923598
+Span Start Loss: 1.9680483932505575
+Span End Loss: 1.8292861709016108
+Type Loss: 0.38253349951092613
+ ------------ Epoch 2/10 Batch 8600/11616 Training Results ------------ 
+Total Loss: 4.18017642974507
+Span Start Loss: 1.9679782908236565
+Span End Loss: 1.8297049814220085
+Type Loss: 0.3824930831096893
+ ------------ Epoch 2/10 Batch 8650/11616 Training Results ------------ 
+Total Loss: 4.182096865979922
+Span Start Loss: 1.968811176441653
+Span End Loss: 1.8304540951162405
+Type Loss: 0.38283151985248387
+ ------------ Epoch 2/10 Batch 8700/11616 Training Results ------------ 
+Total Loss: 4.184546864478067
+Span Start Loss: 1.9700339242764588
+Span End Loss: 1.8315156305281595
+Type Loss: 0.38299723501691874
+ ------------ Epoch 2/10 Batch 8750/11616 Training Results ------------ 
+Total Loss: 4.1827532158919745
+Span Start Loss: 1.9692555340477398
+Span End Loss: 1.8307911203895297
+Type Loss: 0.3827064865955285
+ ------------ Epoch 2/10 Batch 8800/11616 Training Results ------------ 
+Total Loss: 4.183852451701056
+Span Start Loss: 1.9702461812560532
+Span End Loss: 1.8310983117635955
+Type Loss: 0.38250788364834576
+ ------------ Epoch 2/10 Batch 8850/11616 Training Results ------------ 
+Total Loss: 4.183394783129127
+Span Start Loss: 1.9701514015275206
+Span End Loss: 1.8308304271556564
+Type Loss: 0.3824128795783483
+ ------------ Epoch 2/10 Batch 8900/11616 Training Results ------------ 
+Total Loss: 4.182144145332695
+Span Start Loss: 1.9699218218966146
+Span End Loss: 1.8298572259873487
+Type Loss: 0.38236502259174426
+ ------------ Epoch 2/10 Batch 8950/11616 Training Results ------------ 
+Total Loss: 4.18323665452736
+Span Start Loss: 1.970282535617911
+Span End Loss: 1.8305455577340206
+Type Loss: 0.38240848623715634
+ ------------ Epoch 2/10 Batch 9000/11616 Training Results ------------ 
+Total Loss: 4.181599311696159
+Span Start Loss: 1.9689092593772544
+Span End Loss: 1.8305410239398479
+Type Loss: 0.3821489536443518
+ ------------ Epoch 2/10 Batch 9050/11616 Training Results ------------ 
+Total Loss: 4.180276993954379
+Span Start Loss: 1.9679934527251601
+Span End Loss: 1.8301562534741933
+Type Loss: 0.3821272130520469
+ ------------ Epoch 2/10 Batch 9100/11616 Training Results ------------ 
+Total Loss: 4.178325960973462
+Span Start Loss: 1.9670720639906742
+Span End Loss: 1.8294018845211018
+Type Loss: 0.3818519377696154
+ ------------ Epoch 2/10 Batch 9150/11616 Training Results ------------ 
+Total Loss: 4.17617826326623
+Span Start Loss: 1.9659669434486842
+Span End Loss: 1.828469713607121
+Type Loss: 0.381741531582478
+ ------------ Epoch 2/10 Batch 9200/11616 Training Results ------------ 
+Total Loss: 4.176202624129212
+Span Start Loss: 1.9662325272660541
+Span End Loss: 1.8280545531796373
+Type Loss: 0.3819154690649441
+ ------------ Epoch 2/10 Batch 9250/11616 Training Results ------------ 
+Total Loss: 4.176539019716753
+Span Start Loss: 1.96655086008117
+Span End Loss: 1.8282164997539005
+Type Loss: 0.38177158527982397
+ ------------ Epoch 2/10 Batch 9300/11616 Training Results ------------ 
+Total Loss: 4.176925730817421
+Span Start Loss: 1.966734998122018
+Span End Loss: 1.8281835056280578
+Type Loss: 0.3820071526210234
+ ------------ Epoch 2/10 Batch 9350/11616 Training Results ------------ 
+Total Loss: 4.176433386984356
+Span Start Loss: 1.9666934041941868
+Span End Loss: 1.8276988834238308
+Type Loss: 0.38204102474478957
+ ------------ Epoch 2/10 Batch 9400/11616 Training Results ------------ 
+Total Loss: 4.175650443739079
+Span Start Loss: 1.9662735970556102
+Span End Loss: 1.8274818356620504
+Type Loss: 0.38189493671634256
+ ------------ Epoch 2/10 Batch 9450/11616 Training Results ------------ 
+Total Loss: 4.1747906408139634
+Span Start Loss: 1.9658751366015466
+Span End Loss: 1.8270092407862346
+Type Loss: 0.3819061890400197
+ ------------ Epoch 2/10 Batch 9500/11616 Training Results ------------ 
+Total Loss: 4.173769349393091
+Span Start Loss: 1.965256077046457
+Span End Loss: 1.8265637507501402
+Type Loss: 0.3819494472614637
+ ------------ Epoch 2/10 Batch 9550/11616 Training Results ------------ 
+Total Loss: 4.172370795577921
+Span Start Loss: 1.9647612701364212
+Span End Loss: 1.8257119359177445
+Type Loss: 0.3818975153048547
+ ------------ Epoch 2/10 Batch 9600/11616 Training Results ------------ 
+Total Loss: 4.171066088050915
+Span Start Loss: 1.9638290962033595
+Span End Loss: 1.8252566264911245
+Type Loss: 0.3819802914577303
+ ------------ Epoch 2/10 Batch 9650/11616 Training Results ------------ 
+Total Loss: 4.170569479380556
+Span Start Loss: 1.9634291591993267
+Span End Loss: 1.825060563454974
+Type Loss: 0.38207968302090395
+ ------------ Epoch 2/10 Batch 9700/11616 Training Results ------------ 
+Total Loss: 4.168612588826836
+Span Start Loss: 1.962330442041773
+Span End Loss: 1.8242320987828
+Type Loss: 0.3820499742597572
+ ------------ Epoch 2/10 Batch 9750/11616 Training Results ------------ 
+Total Loss: 4.167729255075638
+Span Start Loss: 1.9618617492532118
+Span End Loss: 1.824070151167038
+Type Loss: 0.3817972807882306
+ ------------ Epoch 2/10 Batch 9800/11616 Training Results ------------ 
+Total Loss: 4.166573226140166
+Span Start Loss: 1.961256749695357
+Span End Loss: 1.8233574149894471
+Type Loss: 0.3819589877810937
+ ------------ Epoch 2/10 Batch 9850/11616 Training Results ------------ 
+Total Loss: 4.165029724517147
+Span Start Loss: 1.960458252289271
+Span End Loss: 1.822617579190259
+Type Loss: 0.3819538192570134
+ ------------ Epoch 2/10 Batch 9900/11616 Training Results ------------ 
+Total Loss: 4.1643732286989685
+Span Start Loss: 1.9603417166841752
+Span End Loss: 1.8223297040540762
+Type Loss: 0.3817017341154919
+ ------------ Epoch 2/10 Batch 9950/11616 Training Results ------------ 
+Total Loss: 4.1647028346232435
+Span Start Loss: 1.9604837916768976
+Span End Loss: 1.8227957159101065
+Type Loss: 0.3814232532142769
+ ------------ Epoch 2/10 Batch 10000/11616 Training Results ------------ 
+Total Loss: 4.164743228517473
+Span Start Loss: 1.9606228028997779
+Span End Loss: 1.822820693308115
+Type Loss: 0.38129965863619
+ --------------- Epoch 2/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 54.3, 'f1': 65.0, 'turns': 1425}), ('literature', {'em': 50.1, 'f1': 60.2, 'turns': 1630}), ('mid-high_school', {'em': 50.5, 'f1': 62.1, 'turns': 1653}), ('news', {'em': 53.7, 'f1': 64.6, 'turns': 1649}), ('wikipedia', {'em': 56.4, 'f1': 67.9, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 53.0, 'f1': 63.9, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 53.0, 'f1': 63.9, 'turns': 7983})])
+ ------------ Epoch 2/10 Batch 10050/11616 Training Results ------------ 
+Total Loss: 4.163136489259366
+Span Start Loss: 1.959664532650466
+Span End Loss: 1.8222672655214718
+Type Loss: 0.3812046173172285
+ ------------ Epoch 2/10 Batch 10100/11616 Training Results ------------ 
+Total Loss: 4.162147554541283
+Span Start Loss: 1.9591902806897565
+Span End Loss: 1.8217710792044601
+Type Loss: 0.38118612099236043
+ ------------ Epoch 2/10 Batch 10150/11616 Training Results ------------ 
+Total Loss: 4.159792686382245
+Span Start Loss: 1.9580569465216158
+Span End Loss: 1.8207285836617935
+Type Loss: 0.3810070825751706
+ ------------ Epoch 2/10 Batch 10200/11616 Training Results ------------ 
+Total Loss: 4.1595401752301875
+Span Start Loss: 1.9579099684705337
+Span End Loss: 1.8206152192079554
+Type Loss: 0.3810149137535151
+ ------------ Epoch 2/10 Batch 10250/11616 Training Results ------------ 
+Total Loss: 4.158295625077515
+Span Start Loss: 1.9572892136820932
+Span End Loss: 1.8201627243001286
+Type Loss: 0.3808436133726159
+ ------------ Epoch 2/10 Batch 10300/11616 Training Results ------------ 
+Total Loss: 4.158442110394679
+Span Start Loss: 1.9578297873043897
+Span End Loss: 1.8199917962221266
+Type Loss: 0.38062045320796156
+ ------------ Epoch 2/10 Batch 10350/11616 Training Results ------------ 
+Total Loss: 4.159938746467593
+Span Start Loss: 1.9584370510949605
+Span End Loss: 1.8208389527814977
+Type Loss: 0.38066266898695683
+ ------------ Epoch 2/10 Batch 10400/11616 Training Results ------------ 
+Total Loss: 4.160442851648594
+Span Start Loss: 1.9585325489322154
+Span End Loss: 1.8210313907924753
+Type Loss: 0.38087883821366214
+ ------------ Epoch 2/10 Batch 10450/11616 Training Results ------------ 
+Total Loss: 4.160040715714676
+Span Start Loss: 1.9583463061212352
+Span End Loss: 1.8209337267835746
+Type Loss: 0.38076060904484044
+ ------------ Epoch 2/10 Batch 10500/11616 Training Results ------------ 
+Total Loss: 4.158995313679888
+Span Start Loss: 1.9576621692705722
+Span End Loss: 1.8204955233307112
+Type Loss: 0.3808375473118254
+ ------------ Epoch 2/10 Batch 10550/11616 Training Results ------------ 
+Total Loss: 4.158587471194459
+Span Start Loss: 1.9574035661212077
+Span End Loss: 1.8204171139679814
+Type Loss: 0.38076671736606205
+ ------------ Epoch 2/10 Batch 10600/11616 Training Results ------------ 
+Total Loss: 4.158318236435078
+Span Start Loss: 1.956897295821669
+Span End Loss: 1.8205901521191281
+Type Loss: 0.38083071482877406
+ ------------ Epoch 2/10 Batch 10650/11616 Training Results ------------ 
+Total Loss: 4.157155037422975
+Span Start Loss: 1.9564359126026643
+Span End Loss: 1.8201288613033406
+Type Loss: 0.38059019003623107
+ ------------ Epoch 2/10 Batch 10700/11616 Training Results ------------ 
+Total Loss: 4.155955809487082
+Span Start Loss: 1.9559272156822904
+Span End Loss: 1.8196573314279596
+Type Loss: 0.38037118896824595
+ ------------ Epoch 2/10 Batch 10750/11616 Training Results ------------ 
+Total Loss: 4.156034237333508
+Span Start Loss: 1.9558106647549673
+Span End Loss: 1.819845673102279
+Type Loss: 0.38037782584234725
+ ------------ Epoch 2/10 Batch 10800/11616 Training Results ------------ 
+Total Loss: 4.155467168441801
+Span Start Loss: 1.9554587523873757
+Span End Loss: 1.819718025650967
+Type Loss: 0.38029031689011455
+ ------------ Epoch 2/10 Batch 10850/11616 Training Results ------------ 
+Total Loss: 4.154645889180322
+Span Start Loss: 1.9549474651211967
+Span End Loss: 1.8196140722566485
+Type Loss: 0.3800842785430978
+ ------------ Epoch 2/10 Batch 10900/11616 Training Results ------------ 
+Total Loss: 4.153575990485762
+Span Start Loss: 1.954672508361416
+Span End Loss: 1.8188539913036954
+Type Loss: 0.38004941766252825
+ ------------ Epoch 2/10 Batch 10950/11616 Training Results ------------ 
+Total Loss: 4.153038831681149
+Span Start Loss: 1.954519372937614
+Span End Loss: 1.8184893082810318
+Type Loss: 0.380030077403862
+ ------------ Epoch 2/10 Batch 11000/11616 Training Results ------------ 
+Total Loss: 4.151978040506894
+Span Start Loss: 1.953787539201704
+Span End Loss: 1.818058196289973
+Type Loss: 0.380132231966931
+ ------------ Epoch 2/10 Batch 11050/11616 Training Results ------------ 
+Total Loss: 4.151968742664313
+Span Start Loss: 1.9537506136217269
+Span End Loss: 1.8179632085696604
+Type Loss: 0.38025484732853676
+ ------------ Epoch 2/10 Batch 11100/11616 Training Results ------------ 
+Total Loss: 4.1507280409268965
+Span Start Loss: 1.9531550606293184
+Span End Loss: 1.8175721381537548
+Type Loss: 0.3800007687810271
+ ------------ Epoch 2/10 Batch 11150/11616 Training Results ------------ 
+Total Loss: 4.15117707457644
+Span Start Loss: 1.9536048947308096
+Span End Loss: 1.8176645331799717
+Type Loss: 0.37990757345075765
+ ------------ Epoch 2/10 Batch 11200/11616 Training Results ------------ 
+Total Loss: 4.151170846374173
+Span Start Loss: 1.9536060741530465
+Span End Loss: 1.8177336299233138
+Type Loss: 0.37983106916379517
+ ------------ Epoch 2/10 Batch 11250/11616 Training Results ------------ 
+Total Loss: 4.151222346762816
+Span Start Loss: 1.9535571219219101
+Span End Loss: 1.8180550850523842
+Type Loss: 0.37961006666827535
+ ------------ Epoch 2/10 Batch 11300/11616 Training Results ------------ 
+Total Loss: 4.150599247764434
+Span Start Loss: 1.9536079908221697
+Span End Loss: 1.8177669365506257
+Type Loss: 0.3792242474357012
+ ------------ Epoch 2/10 Batch 11350/11616 Training Results ------------ 
+Total Loss: 4.1498681866190505
+Span Start Loss: 1.9534336267523302
+Span End Loss: 1.8174238787033485
+Type Loss: 0.3790106082321165
+ ------------ Epoch 2/10 Batch 11400/11616 Training Results ------------ 
+Total Loss: 4.149463264585326
+Span Start Loss: 1.9536564293020127
+Span End Loss: 1.8169995354142106
+Type Loss: 0.37880722682506435
+ ------------ Epoch 2/10 Batch 11450/11616 Training Results ------------ 
+Total Loss: 4.148429105954659
+Span Start Loss: 1.9534897964034539
+Span End Loss: 1.8165280018623218
+Type Loss: 0.378411234568349
+ ------------ Epoch 2/10 Batch 11500/11616 Training Results ------------ 
+Total Loss: 4.147796868183042
+Span Start Loss: 1.9528993341832057
+Span End Loss: 1.8162991046646366
+Type Loss: 0.37859835616393905
+ ------------ Epoch 2/10 Batch 11550/11616 Training Results ------------ 
+Total Loss: 4.147524560123553
+Span Start Loss: 1.9528054509805395
+Span End Loss: 1.816013547791031
+Type Loss: 0.37870548829395984
+ ------------ Epoch 2/10 Batch 11600/11616 Training Results ------------ 
+Total Loss: 4.148051270502138
+Span Start Loss: 1.9526124205273288
+Span End Loss: 1.8163645119836618
+Type Loss: 0.37907426490263757
+ --------------------- Epoch 2/10 Final Training Results ------------------------ 
+Total Loss: 4.147288722355565
+Span Start Loss: 1.95208814663597
+Span End Loss: 1.8161457432947088
+Type Loss: 0.37905475927669796
+ --------------- Epoch 2/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 55.1, 'f1': 65.6, 'turns': 1425}), ('literature', {'em': 48.9, 'f1': 58.8, 'turns': 1630}), ('mid-high_school', {'em': 51.4, 'f1': 62.7, 'turns': 1653}), ('news', {'em': 54.8, 'f1': 65.6, 'turns': 1649}), ('wikipedia', {'em': 57.2, 'f1': 68.3, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 53.4, 'f1': 64.2, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 53.4, 'f1': 64.2, 'turns': 7983})])
+ --------------- Epoch 3/10 Training Start --------------- 
+ ------------ Epoch 3/10 Batch 50/11616 Training Results ------------ 
+Total Loss: 3.435507671535015
+Span Start Loss: 1.5764914339780807
+Span End Loss: 1.505303760766983
+Type Loss: 0.35371245980262755
+ ------------ Epoch 3/10 Batch 100/11616 Training Results ------------ 
+Total Loss: 3.2519540064036847
+Span Start Loss: 1.4999090746045112
+Span End Loss: 1.410941423177719
+Type Loss: 0.34110348038375377
+ ------------ Epoch 3/10 Batch 150/11616 Training Results ------------ 
+Total Loss: 3.2920364792148273
+Span Start Loss: 1.50625751833121
+Span End Loss: 1.453867974281311
+Type Loss: 0.33191094141453503
+ ------------ Epoch 3/10 Batch 200/11616 Training Results ------------ 
+Total Loss: 3.2224826119840144
+Span Start Loss: 1.460491157025099
+Span End Loss: 1.42219770796597
+Type Loss: 0.3397936924640089
+ ------------ Epoch 3/10 Batch 250/11616 Training Results ------------ 
+Total Loss: 3.196227729320526
+Span Start Loss: 1.467764070391655
+Span End Loss: 1.3932273655533791
+Type Loss: 0.33523622999712827
+ ------------ Epoch 3/10 Batch 300/11616 Training Results ------------ 
+Total Loss: 3.1985360950231554
+Span Start Loss: 1.486331748565038
+Span End Loss: 1.3812837977707386
+Type Loss: 0.3309204838145524
+ ------------ Epoch 3/10 Batch 350/11616 Training Results ------------ 
+Total Loss: 3.1785003043711186
+Span Start Loss: 1.4687102924500193
+Span End Loss: 1.3720032700896263
+Type Loss: 0.3377866824583283
+ ------------ Epoch 3/10 Batch 400/11616 Training Results ------------ 
+Total Loss: 3.1824832427315415
+Span Start Loss: 1.479538855738938
+Span End Loss: 1.3667156999930739
+Type Loss: 0.3362286294088699
+ ------------ Epoch 3/10 Batch 450/11616 Training Results ------------ 
+Total Loss: 3.1813223079674775
+Span Start Loss: 1.4718679898646143
+Span End Loss: 1.3754518968198035
+Type Loss: 0.33400236300710173
+ ------------ Epoch 3/10 Batch 500/11616 Training Results ------------ 
+Total Loss: 3.2011577021330595
+Span Start Loss: 1.4837604291141033
+Span End Loss: 1.3837807013094425
+Type Loss: 0.33361651303619144
+ ------------ Epoch 3/10 Batch 550/11616 Training Results ------------ 
+Total Loss: 3.1931393565779382
+Span Start Loss: 1.4774944190274586
+Span End Loss: 1.3742790881341154
+Type Loss: 0.3413657919249751
+ ------------ Epoch 3/10 Batch 600/11616 Training Results ------------ 
+Total Loss: 3.185751529596746
+Span Start Loss: 1.4746045799801748
+Span End Loss: 1.3736847759534916
+Type Loss: 0.33746211564478773
+ ------------ Epoch 3/10 Batch 650/11616 Training Results ------------ 
+Total Loss: 3.171164126178393
+Span Start Loss: 1.4601228026014108
+Span End Loss: 1.371253382403117
+Type Loss: 0.3397878856756366
+ ------------ Epoch 3/10 Batch 700/11616 Training Results ------------ 
+Total Loss: 3.18375777288207
+Span Start Loss: 1.4685208354038852
+Span End Loss: 1.3726029208515371
+Type Loss: 0.3426339598505625
+ ------------ Epoch 3/10 Batch 750/11616 Training Results ------------ 
+Total Loss: 3.189226942708095
+Span Start Loss: 1.4669377608100573
+Span End Loss: 1.3765184502800305
+Type Loss: 0.34577067429572345
+ ------------ Epoch 3/10 Batch 800/11616 Training Results ------------ 
+Total Loss: 3.2015184081625194
+Span Start Loss: 1.4706190321594477
+Span End Loss: 1.3834535956196488
+Type Loss: 0.34744572184747086
+ ------------ Epoch 3/10 Batch 850/11616 Training Results ------------ 
+Total Loss: 3.2149930268964346
+Span Start Loss: 1.4767554038061814
+Span End Loss: 1.389017001793665
+Type Loss: 0.34922056265832746
+ ------------ Epoch 3/10 Batch 900/11616 Training Results ------------ 
+Total Loss: 3.2041056308067506
+Span Start Loss: 1.471915228135056
+Span End Loss: 1.3830567607780297
+Type Loss: 0.34913358349973955
+ ------------ Epoch 3/10 Batch 950/11616 Training Results ------------ 
+Total Loss: 3.209265359569537
+Span Start Loss: 1.4758652424812317
+Span End Loss: 1.3821831755732235
+Type Loss: 0.35121688424854686
+ ------------ Epoch 3/10 Batch 1000/11616 Training Results ------------ 
+Total Loss: 3.2013045495748518
+Span Start Loss: 1.4720504010766744
+Span End Loss: 1.3775535537749528
+Type Loss: 0.3517005396420136
+ ------------ Epoch 3/10 Batch 1050/11616 Training Results ------------ 
+Total Loss: 3.207489603757858
+Span Start Loss: 1.4719248949771835
+Span End Loss: 1.3809453262175833
+Type Loss: 0.35461932904574844
+ ------------ Epoch 3/10 Batch 1100/11616 Training Results ------------ 
+Total Loss: 3.2154611057855864
+Span Start Loss: 1.4758344208516858
+Span End Loss: 1.3847344543852589
+Type Loss: 0.354892175284807
+ ------------ Epoch 3/10 Batch 1150/11616 Training Results ------------ 
+Total Loss: 3.229381277638933
+Span Start Loss: 1.4832583098696626
+Span End Loss: 1.3892858449661214
+Type Loss: 0.3568370684552128
+ ------------ Epoch 3/10 Batch 1200/11616 Training Results ------------ 
+Total Loss: 3.241583514586091
+Span Start Loss: 1.4884336794540287
+Span End Loss: 1.395817884442707
+Type Loss: 0.3573318968550302
+ ------------ Epoch 3/10 Batch 1250/11616 Training Results ------------ 
+Total Loss: 3.2370379329919814
+Span Start Loss: 1.4837610013604163
+Span End Loss: 1.3956158014416695
+Type Loss: 0.35766107700690625
+ ------------ Epoch 3/10 Batch 1300/11616 Training Results ------------ 
+Total Loss: 3.2389931603119924
+Span Start Loss: 1.484503974765539
+Span End Loss: 1.3974342198211414
+Type Loss: 0.3570549123383199
+ ------------ Epoch 3/10 Batch 1350/11616 Training Results ------------ 
+Total Loss: 3.2491663294809836
+Span Start Loss: 1.4877442427145111
+Span End Loss: 1.4026306514938673
+Type Loss: 0.3587913814069772
+ ------------ Epoch 3/10 Batch 1400/11616 Training Results ------------ 
+Total Loss: 3.2509927701471106
+Span Start Loss: 1.4888638792825597
+Span End Loss: 1.4032215080410242
+Type Loss: 0.3589073281994622
+ ------------ Epoch 3/10 Batch 1450/11616 Training Results ------------ 
+Total Loss: 3.2548187866550067
+Span Start Loss: 1.4881655673734073
+Span End Loss: 1.4074243193762055
+Type Loss: 0.35922884475504013
+ ------------ Epoch 3/10 Batch 1500/11616 Training Results ------------ 
+Total Loss: 3.257783152287205
+Span Start Loss: 1.4897764205733934
+Span End Loss: 1.4073458991746108
+Type Loss: 0.3606607782288144
+ ------------ Epoch 3/10 Batch 1550/11616 Training Results ------------ 
+Total Loss: 3.249355943188552
+Span Start Loss: 1.4844892685067268
+Span End Loss: 1.405569251458491
+Type Loss: 0.35929736960499037
+ ------------ Epoch 3/10 Batch 1600/11616 Training Results ------------ 
+Total Loss: 3.2563377887709066
+Span Start Loss: 1.4891822995617985
+Span End Loss: 1.4087484658975153
+Type Loss: 0.3584069687331794
+ ------------ Epoch 3/10 Batch 1650/11616 Training Results ------------ 
+Total Loss: 3.257789828628302
+Span Start Loss: 1.4896453742366849
+Span End Loss: 1.410596464574337
+Type Loss: 0.35754793617027725
+ ------------ Epoch 3/10 Batch 1700/11616 Training Results ------------ 
+Total Loss: 3.2645841996240264
+Span Start Loss: 1.4921289489199134
+Span End Loss: 1.4141825620304136
+Type Loss: 0.35827263547162363
+ ------------ Epoch 3/10 Batch 1750/11616 Training Results ------------ 
+Total Loss: 3.259466575831175
+Span Start Loss: 1.488731934598514
+Span End Loss: 1.412074864430087
+Type Loss: 0.35865972355221
+ ------------ Epoch 3/10 Batch 1800/11616 Training Results ------------ 
+Total Loss: 3.25875592564957
+Span Start Loss: 1.4882593933575683
+Span End Loss: 1.4118499084396494
+Type Loss: 0.3586465716527568
+ ------------ Epoch 3/10 Batch 1850/11616 Training Results ------------ 
+Total Loss: 3.259157087613602
+Span Start Loss: 1.4871234108306266
+Span End Loss: 1.4123682161843454
+Type Loss: 0.3596654074437715
+ ------------ Epoch 3/10 Batch 1900/11616 Training Results ------------ 
+Total Loss: 3.2553716346425445
+Span Start Loss: 1.486087669604703
+Span End Loss: 1.4101355261159572
+Type Loss: 0.3591483864403869
+ ------------ Epoch 3/10 Batch 1950/11616 Training Results ------------ 
+Total Loss: 3.2539505917865497
+Span Start Loss: 1.4843245643988634
+Span End Loss: 1.4109470813473066
+Type Loss: 0.35867889430087346
+ ------------ Epoch 3/10 Batch 2000/11616 Training Results ------------ 
+Total Loss: 3.2573134826682506
+Span Start Loss: 1.48421311108768
+Span End Loss: 1.4126454974785447
+Type Loss: 0.3604548234473914
+ --------------- Epoch 3/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 51.8, 'f1': 65.0, 'turns': 1425}), ('literature', {'em': 50.4, 'f1': 61.9, 'turns': 1630}), ('mid-high_school', {'em': 50.3, 'f1': 62.1, 'turns': 1653}), ('news', {'em': 53.9, 'f1': 65.1, 'turns': 1649}), ('wikipedia', {'em': 56.9, 'f1': 68.7, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 52.7, 'f1': 64.5, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 52.7, 'f1': 64.5, 'turns': 7983})])
+ ------------ Epoch 3/10 Batch 2050/11616 Training Results ------------ 
+Total Loss: 3.2566304386207245
+Span Start Loss: 1.4841414571535296
+Span End Loss: 1.4112270876910629
+Type Loss: 0.3612618430304091
+ ------------ Epoch 3/10 Batch 2100/11616 Training Results ------------ 
+Total Loss: 3.249716233266961
+Span Start Loss: 1.4814079268915312
+Span End Loss: 1.407302889710381
+Type Loss: 0.3610053658130623
+ ------------ Epoch 3/10 Batch 2150/11616 Training Results ------------ 
+Total Loss: 3.250885501902464
+Span Start Loss: 1.4834373192593109
+Span End Loss: 1.4065147224276564
+Type Loss: 0.3609334097767985
+ ------------ Epoch 3/10 Batch 2200/11616 Training Results ------------ 
+Total Loss: 3.2521608479829
+Span Start Loss: 1.4841338197616014
+Span End Loss: 1.4075402711873706
+Type Loss: 0.36048670593564486
+ ------------ Epoch 3/10 Batch 2250/11616 Training Results ------------ 
+Total Loss: 3.2531217386490767
+Span Start Loss: 1.485902477780978
+Span End Loss: 1.406823405822118
+Type Loss: 0.3603958027371102
+ ------------ Epoch 3/10 Batch 2300/11616 Training Results ------------ 
+Total Loss: 3.257925071032799
+Span Start Loss: 1.4891313100120296
+Span End Loss: 1.4080775297076806
+Type Loss: 0.36071617894927444
+ ------------ Epoch 3/10 Batch 2350/11616 Training Results ------------ 
+Total Loss: 3.2559813228217847
+Span Start Loss: 1.4883354780521798
+Span End Loss: 1.4081058761540879
+Type Loss: 0.35953991554637854
+ ------------ Epoch 3/10 Batch 2400/11616 Training Results ------------ 
+Total Loss: 3.251531098022436
+Span Start Loss: 1.485757438254853
+Span End Loss: 1.406628299827377
+Type Loss: 0.35914530737752404
+ ------------ Epoch 3/10 Batch 2450/11616 Training Results ------------ 
+Total Loss: 3.2452663364307006
+Span Start Loss: 1.4846541012914813
+Span End Loss: 1.4019872393778392
+Type Loss: 0.3586249433864592
+ ------------ Epoch 3/10 Batch 2500/11616 Training Results ------------ 
+Total Loss: 3.2478248029500247
+Span Start Loss: 1.4862504472851754
+Span End Loss: 1.4029449539780616
+Type Loss: 0.3586293501328677
+ ------------ Epoch 3/10 Batch 2550/11616 Training Results ------------ 
+Total Loss: 3.249455529816595
+Span Start Loss: 1.4868702752800549
+Span End Loss: 1.4049932013890323
+Type Loss: 0.3575920021647186
+ ------------ Epoch 3/10 Batch 2600/11616 Training Results ------------ 
+Total Loss: 3.2492442802311134
+Span Start Loss: 1.4867681151399246
+Span End Loss: 1.4050179594869796
+Type Loss: 0.35745815514192847
+ ------------ Epoch 3/10 Batch 2650/11616 Training Results ------------ 
+Total Loss: 3.250855216707261
+Span Start Loss: 1.4893100642708113
+Span End Loss: 1.4044644409193183
+Type Loss: 0.3570806609811086
+ ------------ Epoch 3/10 Batch 2700/11616 Training Results ------------ 
+Total Loss: 3.2422472621693657
+Span Start Loss: 1.485370160517869
+Span End Loss: 1.4000786224117985
+Type Loss: 0.3567984290334775
+ ------------ Epoch 3/10 Batch 2750/11616 Training Results ------------ 
+Total Loss: 3.2475654110176997
+Span Start Loss: 1.4880922650315545
+Span End Loss: 1.402150697816502
+Type Loss: 0.3573223972479728
+ ------------ Epoch 3/10 Batch 2800/11616 Training Results ------------ 
+Total Loss: 3.2494027815360043
+Span Start Loss: 1.4892138350542103
+Span End Loss: 1.4022769104103956
+Type Loss: 0.3579119847824664
+ ------------ Epoch 3/10 Batch 2850/11616 Training Results ------------ 
+Total Loss: 3.248063738160489
+Span Start Loss: 1.4887742131111914
+Span End Loss: 1.4018965737913784
+Type Loss: 0.35739289983224715
+ ------------ Epoch 3/10 Batch 2900/11616 Training Results ------------ 
+Total Loss: 3.2578530671653048
+Span Start Loss: 1.4932663232550538
+Span End Loss: 1.4062537142839926
+Type Loss: 0.35833297766584515
+ ------------ Epoch 3/10 Batch 2950/11616 Training Results ------------ 
+Total Loss: 3.2576485044243984
+Span Start Loss: 1.4923773776474645
+Span End Loss: 1.4066544386188862
+Type Loss: 0.35861663600745597
+ ------------ Epoch 3/10 Batch 3000/11616 Training Results ------------ 
+Total Loss: 3.2565157867098846
+Span Start Loss: 1.4927435757418475
+Span End Loss: 1.4055960768361886
+Type Loss: 0.3581760823835308
+ ------------ Epoch 3/10 Batch 3050/11616 Training Results ------------ 
+Total Loss: 3.255741548013003
+Span Start Loss: 1.4919398668261825
+Span End Loss: 1.4062133163116017
+Type Loss: 0.35758831237122174
+ ------------ Epoch 3/10 Batch 3100/11616 Training Results ------------ 
+Total Loss: 3.255320171230743
+Span Start Loss: 1.4910495333325477
+Span End Loss: 1.4061491767196885
+Type Loss: 0.3581214087606678
+ ------------ Epoch 3/10 Batch 3150/11616 Training Results ------------ 
+Total Loss: 3.2547783077590995
+Span Start Loss: 1.491647663277293
+Span End Loss: 1.4053654518628877
+Type Loss: 0.3577651400976474
+ ------------ Epoch 3/10 Batch 3200/11616 Training Results ------------ 
+Total Loss: 3.2550193420727735
+Span Start Loss: 1.4912204526085406
+Span End Loss: 1.4060329335415735
+Type Loss: 0.3577659034862882
+ ------------ Epoch 3/10 Batch 3250/11616 Training Results ------------ 
+Total Loss: 3.25466508976542
+Span Start Loss: 1.4920045876044494
+Span End Loss: 1.4051267303182529
+Type Loss: 0.35753371931325933
+ ------------ Epoch 3/10 Batch 3300/11616 Training Results ------------ 
+Total Loss: 3.253050475443403
+Span Start Loss: 1.4917350306474801
+Span End Loss: 1.404149501441103
+Type Loss: 0.3571658906967125
+ ------------ Epoch 3/10 Batch 3350/11616 Training Results ------------ 
+Total Loss: 3.2529507112258407
+Span Start Loss: 1.4910012432888373
+Span End Loss: 1.4047874803596467
+Type Loss: 0.3571619352653845
+ ------------ Epoch 3/10 Batch 3400/11616 Training Results ------------ 
+Total Loss: 3.2494864185833756
+Span Start Loss: 1.4900027821958064
+Span End Loss: 1.4029449105175102
+Type Loss: 0.35653867392636396
+ ------------ Epoch 3/10 Batch 3450/11616 Training Results ------------ 
+Total Loss: 3.251060557052277
+Span Start Loss: 1.4912119217540907
+Span End Loss: 1.4039034390449523
+Type Loss: 0.35594514410672845
+ ------------ Epoch 3/10 Batch 3500/11616 Training Results ------------ 
+Total Loss: 3.249664920259799
+Span Start Loss: 1.4917901267409324
+Span End Loss: 1.4033192136968886
+Type Loss: 0.35455552718149763
+ ------------ Epoch 3/10 Batch 3550/11616 Training Results ------------ 
+Total Loss: 3.2475981975630135
+Span Start Loss: 1.4910965025341008
+Span End Loss: 1.4018916364874638
+Type Loss: 0.35461000605053467
+ ------------ Epoch 3/10 Batch 3600/11616 Training Results ------------ 
+Total Loss: 3.249513193043984
+Span Start Loss: 1.4924572815911636
+Span End Loss: 1.4026029727069869
+Type Loss: 0.35445288583636286
+ ------------ Epoch 3/10 Batch 3650/11616 Training Results ------------ 
+Total Loss: 3.25285356190719
+Span Start Loss: 1.4945325541169676
+Span End Loss: 1.4037955232168713
+Type Loss: 0.3545254319554118
+ ------------ Epoch 3/10 Batch 3700/11616 Training Results ------------ 
+Total Loss: 3.252456490745818
+Span Start Loss: 1.4946847437523507
+Span End Loss: 1.4034321102318732
+Type Loss: 0.35433958400896676
+ ------------ Epoch 3/10 Batch 3750/11616 Training Results ------------ 
+Total Loss: 3.253882180839777
+Span Start Loss: 1.4952538420915604
+Span End Loss: 1.4041885241250196
+Type Loss: 0.35443976166397334
+ ------------ Epoch 3/10 Batch 3800/11616 Training Results ------------ 
+Total Loss: 3.257885765137249
+Span Start Loss: 1.4972596391486495
+Span End Loss: 1.4060961934669238
+Type Loss: 0.35452987934707814
+ ------------ Epoch 3/10 Batch 3850/11616 Training Results ------------ 
+Total Loss: 3.2589565305837565
+Span Start Loss: 1.4990751994623766
+Span End Loss: 1.4058331656901093
+Type Loss: 0.3540481119728708
+ ------------ Epoch 3/10 Batch 3900/11616 Training Results ------------ 
+Total Loss: 3.257139397976108
+Span Start Loss: 1.498361188475138
+Span End Loss: 1.4045367462646503
+Type Loss: 0.35424140974783747
+ ------------ Epoch 3/10 Batch 3950/11616 Training Results ------------ 
+Total Loss: 3.2530946509464633
+Span Start Loss: 1.496513519283337
+Span End Loss: 1.4030650804144673
+Type Loss: 0.3535159974300031
+ ------------ Epoch 3/10 Batch 4000/11616 Training Results ------------ 
+Total Loss: 3.2528210893366487
+Span Start Loss: 1.4966277043558658
+Span End Loss: 1.403000431811437
+Type Loss: 0.3531928990455344
+ --------------- Epoch 3/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 55.7, 'f1': 66.8, 'turns': 1425}), ('literature', {'em': 52.3, 'f1': 62.8, 'turns': 1630}), ('mid-high_school', {'em': 52.9, 'f1': 63.5, 'turns': 1653}), ('news', {'em': 55.2, 'f1': 66.7, 'turns': 1649}), ('wikipedia', {'em': 60.4, 'f1': 71.0, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 55.3, 'f1': 66.2, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 55.3, 'f1': 66.2, 'turns': 7983})])
+ ------------ Epoch 3/10 Batch 4050/11616 Training Results ------------ 
+Total Loss: 3.2551568153187818
+Span Start Loss: 1.4975867749916183
+Span End Loss: 1.4036115595238445
+Type Loss: 0.3539584264287978
+ ------------ Epoch 3/10 Batch 4100/11616 Training Results ------------ 
+Total Loss: 3.25518620029637
+Span Start Loss: 1.4983041642388193
+Span End Loss: 1.4029508314136325
+Type Loss: 0.3539311506508327
+ ------------ Epoch 3/10 Batch 4150/11616 Training Results ------------ 
+Total Loss: 3.256031327910093
+Span Start Loss: 1.4990603700352003
+Span End Loss: 1.4039053052681756
+Type Loss: 0.3530655982147857
+ ------------ Epoch 3/10 Batch 4200/11616 Training Results ------------ 
+Total Loss: 3.2588376353982658
+Span Start Loss: 1.501152490380974
+Span End Loss: 1.4043397564600621
+Type Loss: 0.3533453343356294
+ ------------ Epoch 3/10 Batch 4250/11616 Training Results ------------ 
+Total Loss: 3.260423517341123
+Span Start Loss: 1.502847952944391
+Span End Loss: 1.4040978777741684
+Type Loss: 0.35347763212901706
+ ------------ Epoch 3/10 Batch 4300/11616 Training Results ------------ 
+Total Loss: 3.258814111967073
+Span Start Loss: 1.5030409037962902
+Span End Loss: 1.4020400453774735
+Type Loss: 0.35373310854181994
+ ------------ Epoch 3/10 Batch 4350/11616 Training Results ------------ 
+Total Loss: 3.2585991129536054
+Span Start Loss: 1.503332741949065
+Span End Loss: 1.4016808004814318
+Type Loss: 0.353585516060649
+ ------------ Epoch 3/10 Batch 4400/11616 Training Results ------------ 
+Total Loss: 3.2607029744254596
+Span Start Loss: 1.5041274088993668
+Span End Loss: 1.4024578809179367
+Type Loss: 0.3541176298637451
+ ------------ Epoch 3/10 Batch 4450/11616 Training Results ------------ 
+Total Loss: 3.260059676168675
+Span Start Loss: 1.5043736909447092
+Span End Loss: 1.4021417297925172
+Type Loss: 0.3535442008705956
+ ------------ Epoch 3/10 Batch 4500/11616 Training Results ------------ 
+Total Loss: 3.2590779867519934
+Span Start Loss: 1.504012875560257
+Span End Loss: 1.4012626959135135
+Type Loss: 0.35380236100529633
+ ------------ Epoch 3/10 Batch 4550/11616 Training Results ------------ 
+Total Loss: 3.2555167369380755
+Span Start Loss: 1.5028657212001937
+Span End Loss: 1.399496211971228
+Type Loss: 0.353154749839188
+ ------------ Epoch 3/10 Batch 4600/11616 Training Results ------------ 
+Total Loss: 3.254724911235921
+Span Start Loss: 1.5026991272037444
+Span End Loss: 1.3994414340720875
+Type Loss: 0.3525842959028871
+ ------------ Epoch 3/10 Batch 4650/11616 Training Results ------------ 
+Total Loss: 3.256793449314371
+Span Start Loss: 1.5032811527290653
+Span End Loss: 1.4003652348361348
+Type Loss: 0.3531470079904282
+ ------------ Epoch 3/10 Batch 4700/11616 Training Results ------------ 
+Total Loss: 3.258378920838871
+Span Start Loss: 1.5035843985448492
+Span End Loss: 1.4017255170976228
+Type Loss: 0.35306895104395425
+ ------------ Epoch 3/10 Batch 4750/11616 Training Results ------------ 
+Total Loss: 3.2611265683409414
+Span Start Loss: 1.5050898679855622
+Span End Loss: 1.4028540892961778
+Type Loss: 0.353182556588987
+ ------------ Epoch 3/10 Batch 4800/11616 Training Results ------------ 
+Total Loss: 3.2636171233452234
+Span Start Loss: 1.5064018761661524
+Span End Loss: 1.4034648017880196
+Type Loss: 0.3537503903380518
+ ------------ Epoch 3/10 Batch 4850/11616 Training Results ------------ 
+Total Loss: 3.2620657452065305
+Span Start Loss: 1.5058400291127643
+Span End Loss: 1.4026657598212209
+Type Loss: 0.3535599015428464
+ ------------ Epoch 3/10 Batch 4900/11616 Training Results ------------ 
+Total Loss: 3.2616542102502923
+Span Start Loss: 1.5065952131501874
+Span End Loss: 1.4018402699016186
+Type Loss: 0.3532186727374032
+ ------------ Epoch 3/10 Batch 4950/11616 Training Results ------------ 
+Total Loss: 3.2587141123459196
+Span Start Loss: 1.5050635299312345
+Span End Loss: 1.4002570078123098
+Type Loss: 0.35339352048369066
+ ------------ Epoch 3/10 Batch 5000/11616 Training Results ------------ 
+Total Loss: 3.25838326690346
+Span Start Loss: 1.5046415060713887
+Span End Loss: 1.4000545877471566
+Type Loss: 0.3536871189761907
+ ------------ Epoch 3/10 Batch 5050/11616 Training Results ------------ 
+Total Loss: 3.257555917738983
+Span Start Loss: 1.503492854671313
+Span End Loss: 1.4000766088717644
+Type Loss: 0.3539864001212881
+ ------------ Epoch 3/10 Batch 5100/11616 Training Results ------------ 
+Total Loss: 3.2576282086252584
+Span Start Loss: 1.5032535786634567
+Span End Loss: 1.4011247902831026
+Type Loss: 0.3532497857795919
+ ------------ Epoch 3/10 Batch 5150/11616 Training Results ------------ 
+Total Loss: 3.2593752190832372
+Span Start Loss: 1.5042596075748935
+Span End Loss: 1.4018957643832974
+Type Loss: 0.35321979289422334
+ ------------ Epoch 3/10 Batch 5200/11616 Training Results ------------ 
+Total Loss: 3.261433902103454
+Span Start Loss: 1.5052790026051495
+Span End Loss: 1.4031046810889474
+Type Loss: 0.35305016385749555
+ ------------ Epoch 3/10 Batch 5250/11616 Training Results ------------ 
+Total Loss: 3.2630505214347725
+Span Start Loss: 1.5063752465049425
+Span End Loss: 1.4030680400899478
+Type Loss: 0.3536071804400001
+ ------------ Epoch 3/10 Batch 5300/11616 Training Results ------------ 
+Total Loss: 3.263789291461965
+Span Start Loss: 1.506526020335139
+Span End Loss: 1.4033708303435795
+Type Loss: 0.3538923865373967
+ ------------ Epoch 3/10 Batch 5350/11616 Training Results ------------ 
+Total Loss: 3.2667568394304993
+Span Start Loss: 1.5076762011647225
+Span End Loss: 1.404232229200479
+Type Loss: 0.35484835499775746
+ ------------ Epoch 3/10 Batch 5400/11616 Training Results ------------ 
+Total Loss: 3.2684978313399133
+Span Start Loss: 1.509188475581231
+Span End Loss: 1.4043566654512176
+Type Loss: 0.35495263633904633
+ ------------ Epoch 3/10 Batch 5450/11616 Training Results ------------ 
+Total Loss: 3.266988106748653
+Span Start Loss: 1.508266831466911
+Span End Loss: 1.4034180364149427
+Type Loss: 0.3553031852732011
+ ------------ Epoch 3/10 Batch 5500/11616 Training Results ------------ 
+Total Loss: 3.2692817931351335
+Span Start Loss: 1.5100006183819337
+Span End Loss: 1.4038930990316651
+Type Loss: 0.355388022063808
+ ------------ Epoch 3/10 Batch 5550/11616 Training Results ------------ 
+Total Loss: 3.2672252567837368
+Span Start Loss: 1.5085477104058136
+Span End Loss: 1.4035257389685054
+Type Loss: 0.35515175364307455
+ ------------ Epoch 3/10 Batch 5600/11616 Training Results ------------ 
+Total Loss: 3.2636812409053424
+Span Start Loss: 1.5067766617344958
+Span End Loss: 1.4016477184902345
+Type Loss: 0.35525680694562783
+ ------------ Epoch 3/10 Batch 5650/11616 Training Results ------------ 
+Total Loss: 3.26273859899524
+Span Start Loss: 1.506557002357677
+Span End Loss: 1.400923604990265
+Type Loss: 0.35525793785311743
+ ------------ Epoch 3/10 Batch 5700/11616 Training Results ------------ 
+Total Loss: 3.265779003115338
+Span Start Loss: 1.5079378166167359
+Span End Loss: 1.402559142080054
+Type Loss: 0.3552819906093442
+ ------------ Epoch 3/10 Batch 5750/11616 Training Results ------------ 
+Total Loss: 3.2628346439094646
+Span Start Loss: 1.506564938083939
+Span End Loss: 1.401326701691617
+Type Loss: 0.3549429503954623
+ ------------ Epoch 3/10 Batch 5800/11616 Training Results ------------ 
+Total Loss: 3.2626530559990425
+Span Start Loss: 1.5074035374511932
+Span End Loss: 1.4001857287655102
+Type Loss: 0.355063735882848
+ ------------ Epoch 3/10 Batch 5850/11616 Training Results ------------ 
+Total Loss: 3.262603173799749
+Span Start Loss: 1.5071950905165101
+Span End Loss: 1.4004051752133757
+Type Loss: 0.3550028541403958
+ ------------ Epoch 3/10 Batch 5900/11616 Training Results ------------ 
+Total Loss: 3.261943713139932
+Span Start Loss: 1.506515252133042
+Span End Loss: 1.4005860430823038
+Type Loss: 0.354842364022161
+ ------------ Epoch 3/10 Batch 5950/11616 Training Results ------------ 
+Total Loss: 3.262256168498963
+Span Start Loss: 1.5055167084155965
+Span End Loss: 1.4013428160134984
+Type Loss: 0.3553965902491277
+ ------------ Epoch 3/10 Batch 6000/11616 Training Results ------------ 
+Total Loss: 3.263790937382728
+Span Start Loss: 1.5063912096942464
+Span End Loss: 1.4018566896282136
+Type Loss: 0.3555429843083645
+ --------------- Epoch 3/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 55.8, 'f1': 66.4, 'turns': 1425}), ('literature', {'em': 52.8, 'f1': 62.4, 'turns': 1630}), ('mid-high_school', {'em': 53.1, 'f1': 63.3, 'turns': 1653}), ('news', {'em': 56.0, 'f1': 66.5, 'turns': 1649}), ('wikipedia', {'em': 59.9, 'f1': 70.0, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 55.5, 'f1': 65.7, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 55.5, 'f1': 65.7, 'turns': 7983})])
+ ------------ Epoch 3/10 Batch 6050/11616 Training Results ------------ 
+Total Loss: 3.265448484865348
+Span Start Loss: 1.5071008530111352
+Span End Loss: 1.40289726302274
+Type Loss: 0.3554503151331066
+ ------------ Epoch 3/10 Batch 6100/11616 Training Results ------------ 
+Total Loss: 3.2657998151161145
+Span Start Loss: 1.5075104239167738
+Span End Loss: 1.403262205149551
+Type Loss: 0.3550271321628548
+ ------------ Epoch 3/10 Batch 6150/11616 Training Results ------------ 
+Total Loss: 3.268040377731488
+Span Start Loss: 1.5084950371849828
+Span End Loss: 1.4043768777655876
+Type Loss: 0.35516840880873
+ ------------ Epoch 3/10 Batch 6200/11616 Training Results ------------ 
+Total Loss: 3.2689183705816824
+Span Start Loss: 1.5088387936305616
+Span End Loss: 1.4048819305206979
+Type Loss: 0.3551975927120375
+ ------------ Epoch 3/10 Batch 6250/11616 Training Results ------------ 
+Total Loss: 3.269634995394945
+Span Start Loss: 1.5093556623888016
+Span End Loss: 1.4053799517405032
+Type Loss: 0.3548993274962902
+ ------------ Epoch 3/10 Batch 6300/11616 Training Results ------------ 
+Total Loss: 3.2686488757353453
+Span Start Loss: 1.5093755569722918
+Span End Loss: 1.4039027252757834
+Type Loss: 0.35537053991641315
+ ------------ Epoch 3/10 Batch 6350/11616 Training Results ------------ 
+Total Loss: 3.2692559331479503
+Span Start Loss: 1.509495257289391
+Span End Loss: 1.4045808121972665
+Type Loss: 0.3551798099115139
+ ------------ Epoch 3/10 Batch 6400/11616 Training Results ------------ 
+Total Loss: 3.2679467847861816
+Span Start Loss: 1.508841538412962
+Span End Loss: 1.404175866454607
+Type Loss: 0.35492932629422286
+ ------------ Epoch 3/10 Batch 6450/11616 Training Results ------------ 
+Total Loss: 3.269234261338332
+Span Start Loss: 1.5093830578941707
+Span End Loss: 1.4049902873850146
+Type Loss: 0.3548608624773432
+ ------------ Epoch 3/10 Batch 6500/11616 Training Results ------------ 
+Total Loss: 3.269961926002915
+Span Start Loss: 1.5096671322790476
+Span End Loss: 1.4055956825740061
+Type Loss: 0.35469905760884285
+ ------------ Epoch 3/10 Batch 6550/11616 Training Results ------------ 
+Total Loss: 3.271163993340185
+Span Start Loss: 1.5104542343420837
+Span End Loss: 1.4062172684130323
+Type Loss: 0.3544924366748572
+ ------------ Epoch 3/10 Batch 6600/11616 Training Results ------------ 
+Total Loss: 3.2719275152988057
+Span Start Loss: 1.5108787543236306
+Span End Loss: 1.406976080431857
+Type Loss: 0.3540726265728925
+ ------------ Epoch 3/10 Batch 6650/11616 Training Results ------------ 
+Total Loss: 3.2732135680329084
+Span Start Loss: 1.5118475939255012
+Span End Loss: 1.4070892941895732
+Type Loss: 0.3542766258596702
+ ------------ Epoch 3/10 Batch 6700/11616 Training Results ------------ 
+Total Loss: 3.2717133278666592
+Span Start Loss: 1.5107294778347904
+Span End Loss: 1.4068783777941074
+Type Loss: 0.3541054182799894
+ ------------ Epoch 3/10 Batch 6750/11616 Training Results ------------ 
+Total Loss: 3.2721117264970587
+Span Start Loss: 1.5110083734922939
+Span End Loss: 1.407078673162946
+Type Loss: 0.35402462599454104
+ ------------ Epoch 3/10 Batch 6800/11616 Training Results ------------ 
+Total Loss: 3.2726363809614933
+Span Start Loss: 1.5114329823522883
+Span End Loss: 1.4074138092238675
+Type Loss: 0.35378953575704464
+ ------------ Epoch 3/10 Batch 6850/11616 Training Results ------------ 
+Total Loss: 3.271054336880028
+Span Start Loss: 1.510753093390134
+Span End Loss: 1.406626710860181
+Type Loss: 0.35367447910001026
+ ------------ Epoch 3/10 Batch 6900/11616 Training Results ------------ 
+Total Loss: 3.271225158335722
+Span Start Loss: 1.5110300853265368
+Span End Loss: 1.4066785079294788
+Type Loss: 0.353516511556193
+ ------------ Epoch 3/10 Batch 6950/11616 Training Results ------------ 
+Total Loss: 3.271280207291996
+Span Start Loss: 1.5113825542356472
+Span End Loss: 1.4067213246687282
+Type Loss: 0.353176274689571
+ ------------ Epoch 3/10 Batch 7000/11616 Training Results ------------ 
+Total Loss: 3.2729084758726614
+Span Start Loss: 1.5124741648712328
+Span End Loss: 1.407198130174407
+Type Loss: 0.35323612683745365
+ ------------ Epoch 3/10 Batch 7050/11616 Training Results ------------ 
+Total Loss: 3.2729183691031967
+Span Start Loss: 1.5128216511835444
+Span End Loss: 1.407142470006613
+Type Loss: 0.35295419379329007
+ ------------ Epoch 3/10 Batch 7100/11616 Training Results ------------ 
+Total Loss: 3.2751930568682055
+Span Start Loss: 1.5138592315580643
+Span End Loss: 1.408066645496538
+Type Loss: 0.35326712551854655
+ ------------ Epoch 3/10 Batch 7150/11616 Training Results ------------ 
+Total Loss: 3.2734973175490234
+Span Start Loss: 1.5134035267300538
+Span End Loss: 1.407074767473069
+Type Loss: 0.3530189690809254
+ ------------ Epoch 3/10 Batch 7200/11616 Training Results ------------ 
+Total Loss: 3.274208408030164
+Span Start Loss: 1.5138555556639202
+Span End Loss: 1.4071889346206767
+Type Loss: 0.35316386341544176
+ ------------ Epoch 3/10 Batch 7250/11616 Training Results ------------ 
+Total Loss: 3.2746612659353636
+Span Start Loss: 1.514410991210362
+Span End Loss: 1.407134919342296
+Type Loss: 0.3531153010162043
+ ------------ Epoch 3/10 Batch 7300/11616 Training Results ------------ 
+Total Loss: 3.2733098009728816
+Span Start Loss: 1.5139231633976715
+Span End Loss: 1.406317244101673
+Type Loss: 0.3530693390474285
+ ------------ Epoch 3/10 Batch 7350/11616 Training Results ------------ 
+Total Loss: 3.2740799852222406
+Span Start Loss: 1.5142319956158294
+Span End Loss: 1.4068708650706983
+Type Loss: 0.3529770700117814
+ ------------ Epoch 3/10 Batch 7400/11616 Training Results ------------ 
+Total Loss: 3.2778192592482713
+Span Start Loss: 1.516563681335868
+Span End Loss: 1.4083455806598066
+Type Loss: 0.3529099427718619
+ ------------ Epoch 3/10 Batch 7450/11616 Training Results ------------ 
+Total Loss: 3.2771370973213005
+Span Start Loss: 1.515827892910714
+Span End Loss: 1.4087510119098545
+Type Loss: 0.3525581380686154
+ ------------ Epoch 3/10 Batch 7500/11616 Training Results ------------ 
+Total Loss: 3.2771224750926096
+Span Start Loss: 1.5155088689247767
+Span End Loss: 1.4082945004433394
+Type Loss: 0.3533190510860334
+ ------------ Epoch 3/10 Batch 7550/11616 Training Results ------------ 
+Total Loss: 3.2773805995305247
+Span Start Loss: 1.5159750531367118
+Span End Loss: 1.407885836395404
+Type Loss: 0.3535196555046895
+ ------------ Epoch 3/10 Batch 7600/11616 Training Results ------------ 
+Total Loss: 3.276992399113155
+Span Start Loss: 1.5160335166281775
+Span End Loss: 1.4073743501138922
+Type Loss: 0.35358447776433377
+ ------------ Epoch 3/10 Batch 7650/11616 Training Results ------------ 
+Total Loss: 3.2782142568014416
+Span Start Loss: 1.5163110411790461
+Span End Loss: 1.408363000531407
+Type Loss: 0.353540160256298
+ ------------ Epoch 3/10 Batch 7700/11616 Training Results ------------ 
+Total Loss: 3.2772673804409704
+Span Start Loss: 1.5155633253284864
+Span End Loss: 1.408233007458704
+Type Loss: 0.35347099305420826
+ ------------ Epoch 3/10 Batch 7750/11616 Training Results ------------ 
+Total Loss: 3.2793041411282555
+Span Start Loss: 1.5170982194677476
+Span End Loss: 1.4091395290618942
+Type Loss: 0.35306633807382276
+ ------------ Epoch 3/10 Batch 7800/11616 Training Results ------------ 
+Total Loss: 3.279209914435752
+Span Start Loss: 1.517235264923328
+Span End Loss: 1.4086932798389058
+Type Loss: 0.3532813152852349
+ ------------ Epoch 3/10 Batch 7850/11616 Training Results ------------ 
+Total Loss: 3.277749817400791
+Span Start Loss: 1.5164623473916843
+Span End Loss: 1.4081514479333808
+Type Loss: 0.3531359678299231
+ ------------ Epoch 3/10 Batch 7900/11616 Training Results ------------ 
+Total Loss: 3.2813743124798505
+Span Start Loss: 1.518060644685845
+Span End Loss: 1.410037659373653
+Type Loss: 0.3532759542955392
+ ------------ Epoch 3/10 Batch 7950/11616 Training Results ------------ 
+Total Loss: 3.280667539695336
+Span Start Loss: 1.5178804327688127
+Span End Loss: 1.4096265327002642
+Type Loss: 0.35316052016304256
+ ------------ Epoch 3/10 Batch 8000/11616 Training Results ------------ 
+Total Loss: 3.2802910037571564
+Span Start Loss: 1.518199279660359
+Span End Loss: 1.4091702287346124
+Type Loss: 0.3529214414356975
+ --------------- Epoch 3/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 58.1, 'f1': 68.3, 'turns': 1425}), ('literature', {'em': 55.7, 'f1': 65.3, 'turns': 1630}), ('mid-high_school', {'em': 55.2, 'f1': 65.2, 'turns': 1653}), ('news', {'em': 58.4, 'f1': 68.9, 'turns': 1649}), ('wikipedia', {'em': 60.9, 'f1': 71.5, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 57.7, 'f1': 67.8, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 57.7, 'f1': 67.8, 'turns': 7983})])
+ ------------ Epoch 3/10 Batch 8050/11616 Training Results ------------ 
+Total Loss: 3.2808417877286487
+Span Start Loss: 1.518444940320083
+Span End Loss: 1.409451351932117
+Type Loss: 0.35294544131327305
+ ------------ Epoch 3/10 Batch 8100/11616 Training Results ------------ 
+Total Loss: 3.280598011240363
+Span Start Loss: 1.5183916177113115
+Span End Loss: 1.4092230752496808
+Type Loss: 0.35298326405144675
+ ------------ Epoch 3/10 Batch 8150/11616 Training Results ------------ 
+Total Loss: 3.2794008753005346
+Span Start Loss: 1.5173092372523496
+Span End Loss: 1.4092064259918922
+Type Loss: 0.3528851576323158
+ ------------ Epoch 3/10 Batch 8200/11616 Training Results ------------ 
+Total Loss: 3.2818308218723025
+Span Start Loss: 1.5181881728095978
+Span End Loss: 1.4104910618739157
+Type Loss: 0.3531515327014211
+ ------------ Epoch 3/10 Batch 8250/11616 Training Results ------------ 
+Total Loss: 3.2821713843986844
+Span Start Loss: 1.518216235702688
+Span End Loss: 1.4109657285701145
+Type Loss: 0.3529893655889865
+ ------------ Epoch 3/10 Batch 8300/11616 Training Results ------------ 
+Total Loss: 3.283445434195988
+Span Start Loss: 1.5187197542765054
+Span End Loss: 1.4113044463708457
+Type Loss: 0.35342117911810617
+ ------------ Epoch 3/10 Batch 8350/11616 Training Results ------------ 
+Total Loss: 3.282509445345509
+Span Start Loss: 1.5182775036232201
+Span End Loss: 1.4109299695224105
+Type Loss: 0.3533019177588874
+ ------------ Epoch 3/10 Batch 8400/11616 Training Results ------------ 
+Total Loss: 3.2840823786288853
+Span Start Loss: 1.519492208993151
+Span End Loss: 1.4114646922069647
+Type Loss: 0.3531254231222417
+ ------------ Epoch 3/10 Batch 8450/11616 Training Results ------------ 
+Total Loss: 3.284437201185339
+Span Start Loss: 1.5200347354038228
+Span End Loss: 1.4111406204457113
+Type Loss: 0.35326179097059385
+ ------------ Epoch 3/10 Batch 8500/11616 Training Results ------------ 
+Total Loss: 3.2830941011625177
+Span Start Loss: 1.5193721257588442
+Span End Loss: 1.4105596554647473
+Type Loss: 0.3531622654175495
+ ------------ Epoch 3/10 Batch 8550/11616 Training Results ------------ 
+Total Loss: 3.2827160282964596
+Span Start Loss: 1.5191640552233534
+Span End Loss: 1.4105281163917647
+Type Loss: 0.35302380170411707
+ ------------ Epoch 3/10 Batch 8600/11616 Training Results ------------ 
+Total Loss: 3.2824930175792337
+Span Start Loss: 1.5187439100271047
+Span End Loss: 1.4105603016930264
+Type Loss: 0.35318875077960277
+ ------------ Epoch 3/10 Batch 8650/11616 Training Results ------------ 
+Total Loss: 3.2827127126944546
+Span Start Loss: 1.5187709529861548
+Span End Loss: 1.4109024293350347
+Type Loss: 0.3530392751896571
+ ------------ Epoch 3/10 Batch 8700/11616 Training Results ------------ 
+Total Loss: 3.2803908031904836
+Span Start Loss: 1.517994714338204
+Span End Loss: 1.4094835623910373
+Type Loss: 0.35291247123509817
+ ------------ Epoch 3/10 Batch 8750/11616 Training Results ------------ 
+Total Loss: 3.279961695245334
+Span Start Loss: 1.5179286921841757
+Span End Loss: 1.4094370484471321
+Type Loss: 0.3525958994656801
+ ------------ Epoch 3/10 Batch 8800/11616 Training Results ------------ 
+Total Loss: 3.2798446800051764
+Span Start Loss: 1.5180821329372174
+Span End Loss: 1.4091549998200075
+Type Loss: 0.3526074924404648
+ ------------ Epoch 3/10 Batch 8850/11616 Training Results ------------ 
+Total Loss: 3.2795182030753227
+Span Start Loss: 1.5178993342707385
+Span End Loss: 1.4090242256889236
+Type Loss: 0.35259458826570694
+ ------------ Epoch 3/10 Batch 8900/11616 Training Results ------------ 
+Total Loss: 3.278462886567531
+Span Start Loss: 1.517701845964354
+Span End Loss: 1.4082545235434945
+Type Loss: 0.35250646214701986
+ ------------ Epoch 3/10 Batch 8950/11616 Training Results ------------ 
+Total Loss: 3.278900803001233
+Span Start Loss: 1.5179883624205377
+Span End Loss: 1.408583311300371
+Type Loss: 0.35232907424030524
+ ------------ Epoch 3/10 Batch 9000/11616 Training Results ------------ 
+Total Loss: 3.2774800183210107
+Span Start Loss: 1.517490723012222
+Span End Loss: 1.407567550205522
+Type Loss: 0.35242169000808565
+ ------------ Epoch 3/10 Batch 9050/11616 Training Results ------------ 
+Total Loss: 3.277411079966561
+Span Start Loss: 1.517839968341161
+Span End Loss: 1.407360654130825
+Type Loss: 0.3522104025510711
+ ------------ Epoch 3/10 Batch 9100/11616 Training Results ------------ 
+Total Loss: 3.2783733391581658
+Span Start Loss: 1.5183337419717522
+Span End Loss: 1.4079177833274825
+Type Loss: 0.35212175883045727
+ ------------ Epoch 3/10 Batch 9150/11616 Training Results ------------ 
+Total Loss: 3.2781080222683525
+Span Start Loss: 1.51815704025206
+Span End Loss: 1.4078676563289647
+Type Loss: 0.3520832705939484
+ ------------ Epoch 3/10 Batch 9200/11616 Training Results ------------ 
+Total Loss: 3.277647193075846
+Span Start Loss: 1.5176041896770829
+Span End Loss: 1.4080254263673788
+Type Loss: 0.3520175219296842
+ ------------ Epoch 3/10 Batch 9250/11616 Training Results ------------ 
+Total Loss: 3.2760137540665832
+Span Start Loss: 1.516923514688337
+Span End Loss: 1.407012225785771
+Type Loss: 0.35207795855785545
+ ------------ Epoch 3/10 Batch 9300/11616 Training Results ------------ 
+Total Loss: 3.2751575932227155
+Span Start Loss: 1.5167496567291598
+Span End Loss: 1.4067346396593636
+Type Loss: 0.351673242035372
+ ------------ Epoch 3/10 Batch 9350/11616 Training Results ------------ 
+Total Loss: 3.2753212932118756
+Span Start Loss: 1.5166108742643167
+Span End Loss: 1.4067912337757686
+Type Loss: 0.3519191303492628
+ ------------ Epoch 3/10 Batch 9400/11616 Training Results ------------ 
+Total Loss: 3.2772293153119847
+Span Start Loss: 1.5176872558749102
+Span End Loss: 1.4078352477021039
+Type Loss: 0.3517067568386568
+ ------------ Epoch 3/10 Batch 9450/11616 Training Results ------------ 
+Total Loss: 3.276568966354958
+Span Start Loss: 1.5170614568218983
+Span End Loss: 1.4079823327048746
+Type Loss: 0.3515251220198023
+ ------------ Epoch 3/10 Batch 9500/11616 Training Results ------------ 
+Total Loss: 3.27675412528609
+Span Start Loss: 1.5170285220044224
+Span End Loss: 1.4082963824585863
+Type Loss: 0.35142916622081477
+ ------------ Epoch 3/10 Batch 9550/11616 Training Results ------------ 
+Total Loss: 3.2775593480046505
+Span Start Loss: 1.5174708384766942
+Span End Loss: 1.4090081334925446
+Type Loss: 0.3510803215497256
+ ------------ Epoch 3/10 Batch 9600/11616 Training Results ------------ 
+Total Loss: 3.2787534807653476
+Span Start Loss: 1.517992980820903
+Span End Loss: 1.4092694197688251
+Type Loss: 0.3514910255728561
+ ------------ Epoch 3/10 Batch 9650/11616 Training Results ------------ 
+Total Loss: 3.2793436429506757
+Span Start Loss: 1.5181823638490755
+Span End Loss: 1.409836790657414
+Type Loss: 0.3513244339606575
+ ------------ Epoch 3/10 Batch 9700/11616 Training Results ------------ 
+Total Loss: 3.2802863328650442
+Span Start Loss: 1.5192682243829843
+Span End Loss: 1.4099034032717193
+Type Loss: 0.3511146506931172
+ ------------ Epoch 3/10 Batch 9750/11616 Training Results ------------ 
+Total Loss: 3.2813919602601955
+Span Start Loss: 1.5195630998878906
+Span End Loss: 1.4107600030027903
+Type Loss: 0.35106880298724924
+ ------------ Epoch 3/10 Batch 9800/11616 Training Results ------------ 
+Total Loss: 3.2812801442128054
+Span Start Loss: 1.5193308958859773
+Span End Loss: 1.4108211090233254
+Type Loss: 0.35112808474900237
+ ------------ Epoch 3/10 Batch 9850/11616 Training Results ------------ 
+Total Loss: 3.2810483344920396
+Span Start Loss: 1.518984429036754
+Span End Loss: 1.410889392024672
+Type Loss: 0.3511744587400427
+ ------------ Epoch 3/10 Batch 9900/11616 Training Results ------------ 
+Total Loss: 3.281634315547317
+Span Start Loss: 1.5194959628875508
+Span End Loss: 1.411135314581069
+Type Loss: 0.35100298345135994
+ ------------ Epoch 3/10 Batch 9950/11616 Training Results ------------ 
+Total Loss: 3.28085119910351
+Span Start Loss: 1.519077203497665
+Span End Loss: 1.4107779593398824
+Type Loss: 0.35099598167576457
+ ------------ Epoch 3/10 Batch 10000/11616 Training Results ------------ 
+Total Loss: 3.2809548705480993
+Span Start Loss: 1.5192016390107572
+Span End Loss: 1.410662787513435
+Type Loss: 0.35109038929054515
+ --------------- Epoch 3/10 Validation Start --------------- 
+Results: --------------- 
+OrderedDict([('children_stories', {'em': 57.8, 'f1': 68.5, 'turns': 1425}), ('literature', {'em': 53.9, 'f1': 63.5, 'turns': 1630}), ('mid-high_school', {'em': 52.8, 'f1': 63.8, 'turns': 1653}), ('news', {'em': 57.6, 'f1': 68.2, 'turns': 1649}), ('wikipedia', {'em': 60.7, 'f1': 71.6, 'turns': 1626}), ('reddit', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('science', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('in_domain', {'em': 56.5, 'f1': 67.1, 'turns': 7983}), ('out_domain', {'em': 0.0, 'f1': 0.0, 'turns': 0}), ('overall', {'em': 56.5, 'f1': 67.1, 'turns': 7983})])
+ ------------ Epoch 3/10 Batch 10050/11616 Training Results ------------ 
+Total Loss: 3.2815239579931124
+Span Start Loss: 1.5195633640685189
+Span End Loss: 1.410745651778297
+Type Loss: 0.3512148871902951
+ ------------ Epoch 3/10 Batch 10100/11616 Training Results ------------ 
+Total Loss: 3.2809426426186716
+Span Start Loss: 1.519428591692064
+Span End Loss: 1.4102686005816012
+Type Loss: 0.3512453953796389
+ ------------ Epoch 3/10 Batch 10150/11616 Training Results ------------ 
+Total Loss: 3.281010259772316
+Span Start Loss: 1.5192886105480745
+Span End Loss: 1.4103831357189587
+Type Loss: 0.35133845840658756
+ ------------ Epoch 3/10 Batch 10200/11616 Training Results ------------ 
+Total Loss: 3.2818106405181338
+Span Start Loss: 1.5197894882681031
+Span End Loss: 1.4105980964720835
+Type Loss: 0.35142300076307914
+ ------------ Epoch 3/10 Batch 10250/11616 Training Results ------------ 
+Total Loss: 3.2828798778791253
+Span Start Loss: 1.5201148146209194
+Span End Loss: 1.411123932060672
+Type Loss: 0.3516410761195712
+ ------------ Epoch 3/10 Batch 10300/11616 Training Results ------------ 
+Total Loss: 3.282394451492475
+Span Start Loss: 1.5198112245359756
+Span End Loss: 1.410876633148749
+Type Loss: 0.35170653855880196
+ ------------ Epoch 3/10 Batch 10350/11616 Training Results ------------ 
+Total Loss: 3.283420620819077
+Span Start Loss: 1.5199808022171115
+Span End Loss: 1.411504708830861
+Type Loss: 0.35193505457633933
+ ------------ Epoch 3/10 Batch 10400/11616 Training Results ------------ 
+Total Loss: 3.284885963306834
+Span Start Loss: 1.5208895327989012
+Span End Loss: 1.4120234447488418
+Type Loss: 0.3519729305563781
+ ------------ Epoch 3/10 Batch 10450/11616 Training Results ------------ 
+Total Loss: 3.286107676675873
+Span Start Loss: 1.5217582588453897
+Span End Loss: 1.4122799040027783
+Type Loss: 0.3520694585670338
