@@ -5,7 +5,7 @@ import configurations as cfg
 
 
 def GPT_Completion(text: str) -> str:
-    openai.api_key = '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'
+    openai.api_key = 'PLACE YOUR KEY HERE'
 
     response = openai.Completion.create(engine=cfg.gpt_engine,
                                         prompt=text,
