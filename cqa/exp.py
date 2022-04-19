@@ -4,6 +4,8 @@ import json
 from official_evaluation_script import calculate_metrics
 from utils import Challenge
 from tqdm import tqdm
+import torch
+from model import CQAer
 
 missings = \
 """
@@ -739,6 +741,25 @@ Missing prediction for 3s3amizx3u5byyycmcbyzyr2o92dc1 and turn_id: 20
 # tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 #
 # print(tokenizer.encode_plus('Hello, this is a passage', 'Hello, this is a question'))
+#
+#
+# print([1, 2, 3][-3:1])
+
+model_args = torch.load('./args.pth', map_location='cpu')
+model_args.device = 'cpu'
+model = CQAer(model_args).to(model_args.device)
+model.eval()
+model.load_state_dict(torch.load('./model.pth', map_location='cpu'))
 
 
-print([1, 2, 3][-3:1])
+def get_n_params(model):
+    pp=0
+    for p in list(model.parameters()):
+        nn = 1
+        for s in list(p.size()):
+            nn = nn*s
+        pp += nn
+    return pp
+
+
+print(get_n_params(model.bert))

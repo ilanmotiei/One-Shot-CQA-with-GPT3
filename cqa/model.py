@@ -2,8 +2,8 @@ import torch
 from torch import nn
 from transformers import BertModel, BertTokenizer
 from torch.nn.utils.rnn import pad_sequence, pack_padded_sequence, pad_packed_sequence
-from cqa.utils import Sample, token_ids_to_sentence, Challenge
-from cqa.dataset import CQADataset
+from utils import Sample, token_ids_to_sentence, Challenge
+from dataset import CQADataset
 
 
 class CQAer(nn.Module):

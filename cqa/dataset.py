@@ -1,6 +1,6 @@
 
 from torch.utils.data import Dataset
-from cqa.utils import Challenge
+from utils import Challenge
 import json
 from collections import defaultdict
 from transformers import BertTokenizer
