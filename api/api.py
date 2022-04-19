@@ -6,6 +6,7 @@ import torch
 import sys
 sys.path.append('..')
 from cqa.model import CQAer
+import argparse
 
 from retrieval_json import Indexer
 
@@ -54,7 +55,12 @@ def answer():
 
 
 if __name__ == "__main__":
-    dataset_file = 'coqa-dev-v1.0.json'
+    parser = argparse.ArgumentParser('Parser for the retreival api')
+    parser.add_argument('--checkpoint-path', dest='checkpoint_path', type=str)
+    parser.add_argument('--data-path', dest='dataset_file', type=str)
+    args = parser.parse_args()
+
+    dataset_file = args.dataset_file
 
     inx = Indexer(dataset_file)
     inx.loadcache(dataset_file + ".cache")
@@ -66,7 +72,7 @@ if __name__ == "__main__":
     args.device = 'cpu'
     model = CQAer(args).to(args.device)
     model.eval()
-    model.load_state_dict(torch.load('model_epoch=3_saved.pth', map_location='cpu'))
+    model.load_state_dict(torch.load(args.checkpoint_path, map_location='cpu'))
     # model.to('cpu')
 
     webbrowser.open_new('http://127.0.0.1:2000/')
