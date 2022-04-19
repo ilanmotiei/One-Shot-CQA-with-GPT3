@@ -29,7 +29,7 @@ python3 api/api.py --model model.pth --args args.pth --data coqa-dev-v1.0.json
 
 The api should look like this:
 
-<p align="center"><img width="70%" src="img/api-screenshot.png" /></p>
+<p align="center"><img width="70%" src="figs/api-screenshot.png" /></p>
 
 Have fun!
 
