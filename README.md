@@ -1,4 +1,4 @@
-# One-Shot-CQA-with-GPT3
+# One-Shot-CQA-with-GPT3. Ilan Motiei & Jan Jirman
 
 Code for our NLP course research paper: 
 
