@@ -1,4 +1,4 @@
-# Few-Shot-CQA-with-GPT3
+# One-Shot-CQA-with-GPT3
 
 Code for the our NLP course paper: 
 
@@ -10,4 +10,21 @@ We've also built a retrivel module based on the TD-IDF algorithm together with a
 For downloading the Repo:
 
 ```
-git clone 
+git clone https://github.com/ilanmotiei/One-Shot-CQA-with-GPT3.git
+cd One-Shot-CQA-with-GPT3
+pip3 install -r requirements.txt
+```
+
+For using the retrieval-reader web api:
+
+First download the pretrained model from here: https://drive.google.com/drive/folders/16eAi3j2XOrdMVs3oCnzwSx1GBFLgNTDn?usp=sharing.
+Donwload all the files and place them in the root directory of the repository.
+
+Then, perform the following command:
+```
+python3 api/api.py --model model.pth --args args.pth --data coqa-dev-v1.0.json
+```
+
+Have fun!
+
+
